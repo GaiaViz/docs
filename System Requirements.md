@@ -1,5 +1,6 @@
 ---
 title: System Requirements
+layout: home
 ---
 System requirement:
 
