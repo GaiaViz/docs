@@ -6,3 +6,6 @@ url: https://gaiaviz.github.io/docs
 
 aux_links:
   Docs Repository: https://github.com/gaiaviz/docs
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
