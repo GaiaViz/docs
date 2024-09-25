@@ -15,4 +15,4 @@ Use the tools with the keyboard.
 
 ----
 [Edge AI]: https://gaiaviz.github.io/docs/edge-ai
-[GaiaRemote]: https://gaiaviz.github.io/docs/edge-ai
+[GaiaRemote]: https://gaiaviz.github.io/docs/gaiaremote
