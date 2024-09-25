@@ -2,8 +2,6 @@
 title: System Requirements
 layout: home
 ---
-System requirement:
-
 # Hardware
 
 memory: as big as the dataset you wish to work with
