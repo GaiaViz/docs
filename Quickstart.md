@@ -3,6 +3,8 @@ title: Quickstart
 nav_order: 2
 layout: home
 ---
+# Quickstart
+{: .no_toc }
 
 GaiaViz is quick to try out, just download the zip file, extract it on a windows machine and run the gaiaviz.exe app from its folder. If you wish to try the remote capacities, allow network communication when prompted. The app is ready with 3 presets, accessible via key 1, 2, and 3.
 
@@ -14,13 +16,10 @@ GaiaViz is quick to try out, just download the zip file, extract it on a windows
 Navigate with a mouse, even better, a spacemouse.
 Use the tools with the keyboard.
 
-# Quickstart
-{: .no_toc }
-
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
 
 
@@ -47,10 +46,7 @@ The minimum requirements for GaiaViz are:
 
 - Data wrangling tools: Spyder environment / Anaconda 
 - nVidia drivers
-- live video 
-- sql connection: a MySQL database 
-
-
+- live video
 
 ## Hardware
 
@@ -68,8 +64,6 @@ System Requirements
 1. Operating system: Windows 10+ 
 2. RAM : 8Go available for
 3. Disk space: sufficient for your dataset volume
--------------------------
-
 
 # Install, update, uninstall GaiaViz
 
@@ -99,11 +93,12 @@ Global files
 - OSC ports (+ remotes, find them)
 - projects files structure
 
+
+## OSC (Open Sound Control)
+- OSC port and IP config is stored in the global table ('User/_Global_/csv/np_globals.csv')
+
 Network access Permissions for OSC
 
 To use some of GaiaViz features, you'll need to give it Network Access authorization from the pop-up dialog.
 
 When GaiaViz launches for the first time, or when you configure the OSC ports the first time, windows will automatically present you the dialog box.
-
-## OSC (Open Sound Control)
-- OSC port and IP config is stored in the globals table ('User/_Global_/csv/np_globals.csv')
