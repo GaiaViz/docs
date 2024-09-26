@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "456ec5cb071fd8a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c9b4e2448514091",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d16fc13d2a1961b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. Glossary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca6dfae2ea26659e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f4adcb177a042a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f149165d397d7efa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0aaaf31ecc6dcdbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5dfad3d99b6bcc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8a7cec911f1d843",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff4db3b9daf03995",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5c5e4d6ecb9d4df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "8. Glossary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f77ca652ebf96ebb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "8. Glossary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91f95c8c9c144f84",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33252e5a9e1e0afa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "8. Glossary.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6d16fc13d2a1961b",
+  "lastOpenFiles": [
+    "0.1- Quick start.md",
+    "1. The GaiaViz interface.md",
+    "7. FAQ.md",
+    "0-About GaiaViz.md",
+    "Quickstart/Installation and configuration.md",
+    "Quickstart/index.md",
+    "Quickstart/System Requirements.md"
+  ]
+}
