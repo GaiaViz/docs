@@ -4,8 +4,7 @@ layout: home
 parent: Interface and tools
 nav_order: 2
 ---
-# Tools
-{}
+
 ## Overview - GUI Layout & Keyboard
 
 This page is an overview of all User Commands (tools, modes, console(s), etc.)
@@ -20,11 +19,7 @@ Important: At startup the keyboard is set to '**Game Mode**', where the '**Esc**
 
 ## **Tool Bar**
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#tool-bar)
-
 ### Headings and Coordinates
-
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#headings-and-coordinates)
 
 - The top box shows overall scene heading x degrees and cardinal direction.
 - The second box down can shift between **Tilt** and **Roll**. Just click the box to change.
@@ -36,7 +31,6 @@ Important: At startup the keyboard is set to '**Game Mode**', where the '**Esc**
 
 ## [SpaceMouse](https://github.com/GaiaViz/GaiaViz/wiki/3D-Mouse#spacemouse)
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#spacemouse)
 
 The **3Dconnexion SpaceMouse** (family) are 6DOF devices that operate the camera and modify glyphs (currently selected by the keyboard, system mouse/trackpad/touchscreen or zSpace Stylus).
 
@@ -61,7 +55,6 @@ Hint: can also **L/R-click** on GUI indicator to change modes with (2D) mouse or
 
 ## [zSpace Stylus](https://github.com/GaiaViz/GaiaViz/wiki/zSpace)
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#zspace-stylus)
 
 **zSpace system** AR/VR computers are **XR devices** that include a **6DOF stylus** (aka: **zStylus**).
 
@@ -73,48 +66,7 @@ Hint: can also **L/R-click** on GUI indicator to change modes with (2D) mouse or
         - **Left Button** - changes tool type.
 
 
-
-## GUI Consoles
-
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#gui-consoles)
-
-### [Keyboard - Game Mode](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#keyboard---game-mode) Console
-
-- Outputs user actions and system messages (status, warn, err...)
-    - **M** - key will switch the number of lines shown (or hide completely).
-    - [Keyboard Game Mode](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#keyboard---game-mode) actions are described above.
-
-### [(GUI) Command Console](https://github.com/GaiaViz/GaiaViz/wiki/GUI-Console)
-
-- **Enter** key - Enters Command Console (from Game Mode).
-- Type '**?**' and press **Enter** for command usage '**help**'.
-- **Esc** key - leave Command Console and return keyboard to **Game Mode**.
-
-### [Text Tag Console](https://github.com/GaiaViz/GaiaViz/wiki/Text-Tags)
-
-- **T** - Toggles the **Tag Tool** ON/OFF.
-    - **Enter** - switches between **Tag Edit** and **Tag Style**:
-        - **Tag Edit** mode modifies the text.
-            - Press **Enter** or **Esc** to return to **Tag Style** mode.
-        - **Tag Style** keys:
-            - Can select tags as usual with keyboard keys and/or mouse.
-            - **H** - toggles hide/unhide.
-                - **Alt+H** - hide all text tags.
-            - **F** - changes the font type (**Shift+F** for previous).
-            - **Z** - scales the tag size up (**Shift+Z** scales down).
-            - **B** - changes the tag box style (outline or node color text).
-- Camera mode (**C** key) controls scene wide tag view behavior:
-    - **Z** - scales display size of all tags.
-    - **Alt+Z** - changes all (visible) tags view mode, as follows:
-        - **Hide All** mode '0' (does not change individual tag hide states).
-        - **Fixed Size** mode '1' (akin to original behavior).
-        - **Glyph Scale** mode '2' scale is directly proportional to the node view size.
-        - **Distance Scale** mode '3' scales, but closer is proportionally smaller.
-    - Camera tag view settings are unique to each camera.
-    - Camera settings do NOT affect the tag settings.
-
-### [DB Console](https://github.com/GaiaViz/GaiaViz/wiki/MySQL)
-- MySQL is currently deprecated, PostgreSQL is the planned replacement.
+[[GUI Consoles]]
 
 ## [(OS) Command Line Flags](https://github.com/GaiaViz/GaiaViz/wiki/System-Console)
 

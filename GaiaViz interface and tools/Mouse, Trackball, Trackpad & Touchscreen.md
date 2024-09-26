@@ -22,8 +22,6 @@ Behavior is based on the active **[mouse: (mode) ]** and **[tool: (type) ]**.
 
 ### Mouse Selection
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#mouse-selection)
-
 It is possible to **L/R-Click** to select using several of the tools (Combo, Move, Scale, etc.) However other tools use the clicks to change the glyph attributes (topo, color, etc.)
 
 - With **[tool: Select]** you can create a selection set:
@@ -34,7 +32,7 @@ It is possible to **L/R-Click** to select using several of the tools (Combo, Mov
 
 ### [Mouse Tools](https://github.com/GaiaViz/GaiaViz/wiki/Tools#mouse)
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#mouse-tools)
+
 
 - [**[Create]**](https://github.com/GaiaViz/GaiaViz/wiki/Tools#create)
     - **L-Click** on background creates a new hyperglyph (pin with torus).

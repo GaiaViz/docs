@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GaiaViz interface and tools/Load & Save.md",
+                "file": "GaiaViz interface and tools/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GaiaViz interface and tools/Load & Save.md",
+                "file": "GaiaViz interface and tools/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GaiaViz interface and tools/Load & Save.md",
+                "file": "GaiaViz interface and tools/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GaiaViz interface and tools/Load & Save.md"
+                "file": "GaiaViz interface and tools/index.md"
               }
             }
           }
@@ -173,18 +173,19 @@
   },
   "active": "d2e2de7fdc3a365c",
   "lastOpenFiles": [
-    "GaiaViz interface and tools/Modes.md",
+    "GaiaViz interface and tools/GUI Consoles.md",
+    "GaiaViz interface and tools/Mouse, Trackball, Trackpad & Touchscreen.md",
+    "GaiaViz interface and tools/Keyboard - Game Mode.md",
     "GaiaViz interface and tools/Tools.md",
-    "Keyboard - Game Mode.md",
-    "Mouse, Trackball, Trackpad & Touchscreen.md",
-    "GaiaViz interface and tools/Load & Save.md",
+    "Managing projects/Load & Save.md",
+    "GaiaViz interface and tools/Modes.md",
+    "index.md",
     "GaiaViz interface and tools/index.md",
     "Quickstart/Configuration.md",
     "Quickstart/index.md",
     "Tutorials and demos/index.md",
     "Managing projects/index.md",
     "Tutorials and demos/Working with Colors.md",
-    "index.md",
     "other.md",
     "README.md",
     "Quickstart/System Requirements.md",
@@ -201,7 +202,6 @@
     "0-About GaiaViz.md",
     "GaiaViz interface and tools/1. The GaiaViz interface.md",
     "GaiaViz interface and tools",
-    "8. Glossary.md",
     "Managing projects"
   ]
 }

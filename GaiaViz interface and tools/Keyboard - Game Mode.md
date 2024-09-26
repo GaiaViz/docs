@@ -10,8 +10,6 @@ It is possible to press multiple keys at once (3-5 typical depending on the keyb
 
 ### Global Settings
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#global-settings)
-
 - **ESC** - **Fullscreen** Toggle and also exits console modes (return to **Game Mode**).
 - **M** - **Menu** display mode (**1, 3 or 40** text lines, toolbar **size** and **hide** GUI).
 - **B** - Background **Black/White**.
@@ -19,8 +17,6 @@ It is possible to press multiple keys at once (3-5 typical depending on the keyb
     - Hint: **Click** on the toolbar menu axes **[Coord (X/Y/Z): 0.0 ]** to toggle an axis **ON/OFF**.
 
 ### Mouse Mode (Cam, Grid, Glyph)
-
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#mouse-mode-cam-grid-glyph)
 
 The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on by the (2D) mouse. To change the mode, click on the indicator or use the shortcut keys (when keyboard is in 'Game Mode'):
 
@@ -62,7 +58,6 @@ The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on
 
 ### Create, Delete, Copy, Prune & Graft Glyphs
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#create-delete-copy-prune--graft-glyphs)
 
 - **N** - Creates a new node (based on the mode: Camera, Glyph, Grid...)
     - Use **Shift+N** when creating a Level 2 child node off the Level 1 root node.
@@ -116,7 +111,6 @@ The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on
 
 ### Move, Rotate or Scale Objects
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#move-rotate-or-scale-objects)
 
 - **R** - Rate mode can be either **keydown** or **increment**.
     
@@ -125,8 +119,6 @@ The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on
         - Hint: you can reset the rate to zero by switching to **keydown** mode and tapping the same key.
 - #### Move (WASD + QE)
     
-    [](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#move-wasd--qe)
-    
 - - **D** - increase X position (translate)
     - **A** - decrease X
     - **W** - increase Y
@@ -134,9 +126,6 @@ The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on
     - **E** - increase Z
     - **Q** - decrease Z
 - #### Rotate (same as Move with **Alt** key)
-    
-    [](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#rotate-same-as-move-with-alt-key)
-    
 
 - - **Alt+D** - Right (rotate about Y axis)
     - **Alt+A** - Left
@@ -153,15 +142,14 @@ The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on
 
 ### Translate Position Limits
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#translate-position-limits)
+
 
 - Set Points restrict the translate_x/y/z range of an object.
-    - **[** (L bracket) - Low set point, object default is z = 0.0 for ground level.
-    - **]** (R bracket) - High set point, set points are specific to active (**X*** key) axes.
+    - `[` (L bracket) - Low set point, object default is z = 0.0 for ground level.
+    - `]` (R bracket) - High set point, set points are specific to active (**X*** key) axes.
 
 ### Topology & Geometry
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#topology--geometry)
 
 - **J** - Next '**topo**' type, **Shift+J** for previous topo.
     - **ALT+J** will change which parent facet (on a cube...).
@@ -177,8 +165,6 @@ The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on
     - Total grid dimensions are determined by the grid **spacing X segments = length** (per axis).
 
 ### Texture, Color & Transparency
-
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#texture-color--transparency)
 
 - **Texture Settings**
     - **V** - Video or image Texture map (**Shift+V** for previous).
