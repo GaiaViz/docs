@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "2. Operating GaiaViz- interface and tools/Supported hardware.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "2. Operating GaiaViz- interface and tools/Supported hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "2. Operating GaiaViz- interface and tools/Supported hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "2. Operating GaiaViz- interface and tools/Supported hardware.md"
               }
             }
           }
@@ -173,15 +173,22 @@
   },
   "active": "76d79426499e6d30",
   "lastOpenFiles": [
-    "Overview.md",
+    "2. Operating GaiaViz- interface and tools/Keyboard - Game Mode.md",
+    "2. Operating GaiaViz- interface and tools/Keyboard and Mouse.md",
+    "2. Operating GaiaViz- interface and tools/Supported hardware.md",
+    "2. Operating GaiaViz- interface and tools/index.md",
+    "2. Operating GaiaViz- interface and tools/Modes and tools.md",
+    "2. Operating GaiaViz- interface and tools/GUI Consoles.md",
+    "2. Operating GaiaViz- interface and tools/Mouse, Trackball, Trackpad & Touchscreen.md",
+    "2. Operating GaiaViz- interface and tools/Operating GaiaViz.md",
     "index.md",
+    "Overview.md",
     "Quickstart.md",
     "3. Managing a datascape projects/prototypes.md",
     "3. Managing a datascape projects/index.md",
     "3. Managing a datascape projects/Load & Save.md",
     "3. Managing a datascape projects/Introduction to datascapes.md",
     "3. Managing a datascape projects/Directory structure.md",
-    "2. Operating GaiaViz- interface and tools/Operating GaiaViz.md",
     "README.md",
     "youtubePlayer.html.md",
     "_includes/youtubePlayer.html",
@@ -190,12 +197,6 @@
     "_includes",
     "Tutorials and demos/index.md",
     "Tutorials and demos/edge-ai.md",
-    "2. Operating GaiaViz- interface and tools/Keyboard and Mouse.md",
-    "2. Operating GaiaViz- interface and tools/Keyboard - Game Mode.md",
-    "2. Operating GaiaViz- interface and tools/index.md",
-    "2. Operating GaiaViz- interface and tools/GUI Consoles.md",
-    "2. Operating GaiaViz- interface and tools/Mouse, Trackball, Trackpad & Touchscreen.md",
-    "2. Operating GaiaViz- interface and tools/Modes and tools.md",
     "assets/images",
     "assets",
     "2. Operating GaiaViz- interface and tools/Tools.md",
@@ -203,7 +204,6 @@
     "1 .Installation and set up/Installation and updating.md",
     "1 .Installation and set up/System Requirements.md",
     "other.md",
-    "7. FAQ - glossary - services.md",
     "3. Managing a datascape projects/3. Getting started with datascapes",
     "2. Operating GaiaViz- interface and tools",
     "3. Managing a datascape projects"

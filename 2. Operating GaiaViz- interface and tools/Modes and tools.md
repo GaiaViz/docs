@@ -2,7 +2,7 @@
 title: Modes and tools
 layout: home
 nav_order: 1
-parent: Interface and tools
+parent: Operating GaiaViz
 ---
 # Modes
 

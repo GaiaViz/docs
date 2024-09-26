@@ -1,7 +1,7 @@
 ---
 title: GUI consoles
 layout: home
-parent: Interface and tools
+parent: Operating GaiaViz
 ---
 
 

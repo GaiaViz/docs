@@ -1,9 +1,19 @@
 ---
-title: Interface and tools
+title: Operating GaiaViz
 layout: home
 nav_order: 3
 ---
 
+# Operating the software
+
+- interface 
+- project files and folders organization
+- controllers and sensors
+## Windows and interfaces
+
+## Modes and tools
+
+## Projects folder structure
 # The Window and the Console
 
 The main windows give you the datascape and the console log events happening.
@@ -41,11 +51,4 @@ Keyboard - Game Mode
     - **Text Tag Console****- Glyph tags, web URL records and local files**
 
 OSC (Open Sound Control)- Remote control of Scene Graph (nodes) and commands.**
-
-## Supported hardware:
-
-- SpaceMouse- 6DOF device to navigate and modify
-- zSpace Stylus 
-	- 6DOF device to pick, nav and modify**
-
 
