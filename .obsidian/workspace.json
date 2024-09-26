@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Operating GaiaViz- interface and tools/Keyboard and Mouse.md",
+                "file": "3. Managing a datascape projects/Directory structure.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Operating GaiaViz- interface and tools/Keyboard and Mouse.md",
+                "file": "3. Managing a datascape projects/Directory structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Operating GaiaViz- interface and tools/Keyboard and Mouse.md",
+                "file": "3. Managing a datascape projects/Directory structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Operating GaiaViz- interface and tools/Keyboard and Mouse.md"
+                "file": "3. Managing a datascape projects/Directory structure.md"
               }
             }
           }
@@ -173,6 +173,11 @@
   },
   "active": "76d79426499e6d30",
   "lastOpenFiles": [
+    "3. Managing a datascape projects/prototypes.md",
+    "3. Managing a datascape projects/Load & Save.md",
+    "3. Managing a datascape projects/Introduction to datascapes.md",
+    "3. Managing a datascape projects/index.md",
+    "2. Operating GaiaViz- interface and tools/Keyboard and Mouse.md",
     "2. Operating GaiaViz- interface and tools/index.md",
     "2. Operating GaiaViz- interface and tools/GUI Consoles.md",
     "2. Operating GaiaViz- interface and tools/controllers/zSpace Stylus.md",
@@ -184,15 +189,10 @@
     "2. Operating GaiaViz- interface and tools/tools/Text Tag Console.md",
     "2. Operating GaiaViz- interface and tools/controllers",
     "2. Operating GaiaViz- interface and tools/tools",
-    "2. Operating GaiaViz- interface and tools/Keyboard and Mouse.md",
     "2. Operating GaiaViz- interface and tools/Operating GaiaViz.md",
     "index.md",
     "Overview.md",
     "Quickstart.md",
-    "3. Managing a datascape projects/prototypes.md",
-    "3. Managing a datascape projects/index.md",
-    "3. Managing a datascape projects/Load & Save.md",
-    "3. Managing a datascape projects/Introduction to datascapes.md",
     "3. Managing a datascape projects/Directory structure.md",
     "README.md",
     "youtubePlayer.html.md",
