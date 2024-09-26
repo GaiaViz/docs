@@ -1,6 +1,5 @@
-## [Mouse, Trackball, Trackpad & Touchscreen](https://github.com/GaiaViz/GaiaViz/wiki/Mouse)
+## Mouse, Trackball, Trackpad & Touchscreen
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#mouse-trackball-trackpad--touchscreen)
 
 Behavior is based on the active **[mouse: (mode) ]** and **[tool: (type) ]**.
 
@@ -9,8 +8,6 @@ Behavior is based on the active **[mouse: (mode) ]** and **[tool: (type) ]**.
 - **L-Click** on any of menubar tool to set the **[tool: (type) ]**.
 
 ### Mouse Navigation
-
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#mouse-navigation)
 
 - **L - Hold** on scene background to **XY ORBIT** around current object.
 - **L+R - Hold** on background to **XZ ORBIT** circle and **ZOOM** in/out.
@@ -30,43 +27,55 @@ It is possible to **L/R-Click** to select using several of the tools (Combo, Mov
     - **L-Hold** to drag a selection box (add to selection).
     - **R-Hold** to drag a de-selection box (removes objects).
 
-### [Mouse Tools](https://github.com/GaiaViz/GaiaViz/wiki/Tools#mouse)
+### [Mouse Tools
 
 
 
-- [**[Create]**](https://github.com/GaiaViz/GaiaViz/wiki/Tools#create)
+Create
     - **L-Click** on background creates a new hyperglyph (pin with torus).
     - **L-Click** on a glyph creates a new (attached) child glyph. (Note: if you wish to create a child node off of a root node, you will need to hold **Shift L-Click**.)
     - **R-Click** deletes glyph.
-- **[Link]**
+Link
     - **L-Click** on the 'A' link end and then select the 'B' link end.
     - **R-Click** cancels and resets for picking the 'A' link end.
     - Note: You can only connect root nodes to other root nodes.
-- **[Combo]**
+Combo
     - **L-Hold** drags selected objects in XY (L-R & Forward-Back).
     - **R-Hold** scale objects up/down, and increases/decreases ratio.
-- **[Move]**
+
+
+Move
     - **L-Hold** moves objects in XY (L-R & Forward-Back).
     - **R-Hold** moves objects in XZ (L-R & Up-Down).
-- **[Rotate]**
+
+
+Rotate
     - **L-Hold** rotates objects on X & Y axes (Heading, Tilt).
     - **R-Hold** rotates objects on Z axes (Roll)
+- 
 - **[Size]**
     - **L-Click** to increase/decrease scale.
     - **R-Click** to increase/decrease ratio.
+- 
 - **[Topo], [Geometry], [Color], [Texture]**
     - **L-Click** for next (topo type, index color, texture map, etc...).
     - **R-Click** for previous type.
+
 - **[Hide]**
     - **R-Click** to Hide all sub-branches of selected node.
     - **L-Click** to un-Hide sub-branches.
     - See **Keyboard Game Mode** commands below for hiding per branch level, etc.
+
 - **[Tag]**
     - **L-Click** to select a glyph, and then use keyboard to modify or enter a new tag.
         - Repeating **L-Click** on the same glyph will change it's draw style (color, outline).
     - **R-Click** will hide the tag (but the text will be retained).
     - **Enter** will alternate between **Tag Edit** mode and **Tag Style** mode (tag game mode).
-        - See [**Text Tag Console**](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#text-tags-console) section for details on tag formatting (including URL's).
+        - See **Text Tag Console** section for details on tag formatting (including URL's).
+
+
+
+
 - **Hidden Tools - accessible via scrollwheel**
     - **[Alpha]** - Changes glyph opacity (transparency).
     - **[Channel]** - Animation channel (subscribes selected nodes to tracks).

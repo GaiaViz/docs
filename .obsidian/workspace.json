@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Managing a datascape projects/index.md",
+                "file": "1 .Installation and set up/Quickstart.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Managing a datascape projects/index.md",
+                "file": "1 .Installation and set up/Quickstart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Managing a datascape projects/index.md",
+                "file": "1 .Installation and set up/Quickstart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Managing a datascape projects/index.md"
+                "file": "1 .Installation and set up/Quickstart.md"
               }
             }
           }
@@ -173,21 +173,21 @@
   },
   "active": "d2e2de7fdc3a365c",
   "lastOpenFiles": [
-    "3. Managing a datascape projects/Introduction to datascapes.md",
-    "3. Managing a datascape projects/Load & Save.md",
     "3. Managing a datascape projects/index.md",
-    "3. Managing a datascape projects/prototypes.md",
+    "1 .Installation and set up/Quickstart.md",
+    "3. Managing a datascape projects/Introduction to datascapes.md",
+    "2. Operating GaiaViz- interface and tools/index.md",
+    "1 .Installation and set up/System Requirements.md",
+    "1 .Installation and set up/index.md",
+    "1 .Installation and set up/Installation and updating.md",
+    "2. Operating GaiaViz- interface and tools/Mouse, Trackball, Trackpad & Touchscreen.md",
     "2. Operating GaiaViz- interface and tools/Modes.md",
     "2. Operating GaiaViz- interface and tools/Operating GaiaViz.md",
-    "2. Operating GaiaViz- interface and tools/index.md",
+    "3. Managing a datascape projects/Load & Save.md",
+    "3. Managing a datascape projects/prototypes.md",
     "2. Operating GaiaViz- interface and tools/Keyboard - Game Mode.md",
-    "2. Operating GaiaViz- interface and tools/Mouse, Trackball, Trackpad & Touchscreen.md",
     "2. Operating GaiaViz- interface and tools/Tools.md",
     "2. Operating GaiaViz- interface and tools/GUI Consoles.md",
-    "1 .Installation and set up/System Requirements.md",
-    "1 .Installation and set up/Installation and updating.md",
-    "1 .Installation and set up/Configuration.md",
-    "1 .Installation and set up/index.md",
     "index.md",
     "Tutorials and demos/Working with Colors.md",
     "Tutorials and demos/index.md",
