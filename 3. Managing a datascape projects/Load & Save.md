@@ -18,11 +18,9 @@ parent: Managing Datascape Projects
         - Texture formats (PNG, TIFF...) support transparency.
 - Assets (images, 3D models, ...) are loaded at startup from:
     - `/User/_Global_/[subfolders]`
-- See [Command Line Arguments] section to specify specific startup files.
 
 ### Save Methods
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#save-methods)
 
 - **Shift+[#]** (1, 2 or 3) - save current dataset scene and set it as a preset (#).
     - Legacy presets are moved and transformed to the current dataset schema.
@@ -42,7 +40,7 @@ parent: Managing Datascape Projects
 - **F4** - Save Screenshot to the currently active (last used) dataset base folder.
     - **Shift+F4** - Screenshot saved with alpha transparency using RGBA TIFF.
 
-### Built-In Visualizations
+### Launching Built-In Visualizations
 
 
 - **4** - Reserved for custom viz (eg. Edge-AI demo).

@@ -13,13 +13,15 @@ parent: Managing Datascape Projects
 1. TOC
 {:toc}
 
+
+
+
 3. what is a datascape
 4. designing a datascape
 5. create a datascape
 6. features
 7. import a datascape
 
-Data
 
 
 # Datascape components and complexity
@@ -80,4 +82,30 @@ To import a datascape, hit the "L" key, navigate the file dialog to the
 - tracks and channels
 
 ## Automatically with data tools
+
+
+
+# Manage datascapes
+
+# Supported file formats
+
+GaiaViz will load the following formats:
+- Image files: `tiff`,`jpg`,`png`
+- 3D models files: 
+- Video streams: `YUV`, `RGB`
+
+# Global settings
+GaiaViz stores global settings in the global folder
+
+
+# How GaiaViz stores data: folder structure
+
+GaiaViz stores the data as [[Comma Separated Values formatted]] plain text files in a *datascape*. A datascape is a folder on your local file system, including any subfolders.
+
+Because files are plain text files, you can use other text editors, spreadsheets editor and file managers to edit and manage files.
+
+You can create a datascape anywhere your operating system allows, but we do recommend using our structure to keep things organized.
+
+You can open multiple datascapes as individual windows, or within the same scene, although tags merging is not yet supported.
+
 
