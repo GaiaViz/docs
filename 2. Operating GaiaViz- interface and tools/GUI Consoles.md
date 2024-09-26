@@ -1,12 +1,11 @@
-## GUI Consoles
 
 ### Keyboard - Game Mode Console
 
 - Outputs user actions and system messages (status, warn, err...)
     - **M** - key will switch the number of lines shown (or hide completely).
-    - [Keyboard Game Mode](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#keyboard---game-mode) actions are described above.
+    - Keyboard Game Mode actions are described above.
 
-### [(GUI) Command Console](https://github.com/GaiaViz/GaiaViz/wiki/GUI-Console)
+### [(GUI) Command Console
 
 - **Enter** key - Enters Command Console (from Game Mode).
 - Type '**?**' and press **Enter** for command usage '**help**'.
