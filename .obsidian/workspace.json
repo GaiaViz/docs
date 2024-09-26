@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quickstart.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quickstart.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quickstart.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quickstart.md"
+                "file": "index.md"
               }
             }
           }
@@ -175,13 +175,13 @@
   "lastOpenFiles": [
     "Overview.md",
     "index.md",
+    "Quickstart.md",
     "3. Managing a datascape projects/prototypes.md",
     "3. Managing a datascape projects/index.md",
     "3. Managing a datascape projects/Load & Save.md",
     "3. Managing a datascape projects/Introduction to datascapes.md",
     "3. Managing a datascape projects/Directory structure.md",
     "2. Operating GaiaViz- interface and tools/Operating GaiaViz.md",
-    "Quickstart.md",
     "README.md",
     "youtubePlayer.html.md",
     "_includes/youtubePlayer.html",
