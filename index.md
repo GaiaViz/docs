@@ -2,12 +2,18 @@
 title: Overview
 layout: home
 nav_order: 1
+youtubeId: WbyImpd7nbc
 ---
 
 GaiaViz is an immersive 3D visualization engine that lets you encode and display millions of data attributes onto beautiful 3D structures. This unique 3D visual analytics solutions inspire the mind.
 
 
 [GaiaViz Download Page](https://gaiaviz.com/downloads){: .btn }
+
+
+------------------------
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 -----------------------------------------------------------------
 # Introduction: What is GaiaViz?
