@@ -1,10 +1,5 @@
-## [Load & Save](https://github.com/GaiaViz/GaiaViz/wiki/File-Types)
-
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#load--save)
 
 ### Load Dataset or Asset
-
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#load-dataset-or-asset)
 
 - **1, 2 or 3** - key loads a preset dataset specified in:
     - `/User/_Global_/csv/np_preset.csv`
@@ -43,7 +38,6 @@
 
 ### Built-In Visualizations
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#built-in-visualizations)
 
 - **4** - Reserved for custom viz (eg. Edge-AI demo).
 - **5** - FileViz directory tree, choose root folder (**Alt+5** uses 'usr/fileviz').
@@ -52,9 +46,6 @@
 - **Alt+7** - Test Scene (generates 250K+ varied nodes).
 
 ### Quit Program
-
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#quit-program)
-
 - **Alt+F4** - Quit without saving.
 
 ---
