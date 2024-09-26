@@ -1,3 +1,8 @@
+---
+title: Managing Datascape Projects
+layout: home
+nav_order:
+---
 # Manage datascapes
 
 GaiaViz will load the following formats:
