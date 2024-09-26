@@ -4,7 +4,7 @@ layout: home
 nav_order: 3
 ---
 
-# Screen Appearance: The Window and the Console
+# The Window and the Console
 
 The main windows give you the datascape and the console log events happening.
 Both need to be opened ;)
@@ -42,7 +42,7 @@ Keyboard - Game Mode
 
 OSC (Open Sound Control)- Remote control of Scene Graph (nodes) and commands.**
 
-## Optional hardware but nice:
+## Supported hardware:
 
 - SpaceMouse- 6DOF device to navigate and modify
 - zSpace Stylus 

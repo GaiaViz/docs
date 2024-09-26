@@ -1,9 +1,32 @@
 ---
-title: Tools
+title: Modes and tools
 layout: home
+nav_order: 1
 parent: Interface and tools
-nav_order: 2
 ---
+# Modes
+
+GaiaViz has different modes that you. You can either change 
+
+## Camera mode 
+
+you can have several cam and each camera has specific settings, like the background color / image / video stream,
+
+## Glyph, Grid and Tag modes
+
+To add, delete, layers, style, size grid.
+
+A grid create 
+
+
+The tag mode allows Press `T` to enter the tag mode, `f` to cycle the font
+
+## Console mode `alt+enter`
+
+The console mode allows for finer selection, for examples by branch level or color.
+Enter the console mode by pressing the  key combinaison.
+
+# Tools
 
 ## Overview - GUI Layout & Keyboard
 
@@ -29,8 +52,7 @@ Important: At startup the keyboard is set to '**Game Mode**', where the '**Esc**
 
 
 
-## [SpaceMouse](https://github.com/GaiaViz/GaiaViz/wiki/3D-Mouse#spacemouse)
-
+## SpaceMouse
 
 The **3Dconnexion SpaceMouse** (family) are 6DOF devices that operate the camera and modify glyphs (currently selected by the keyboard, system mouse/trackpad/touchscreen or zSpace Stylus).
 
@@ -53,7 +75,7 @@ Hint: can also **L/R-click** on GUI indicator to change modes with (2D) mouse or
 
 ---
 
-## [zSpace Stylus](https://github.com/GaiaViz/GaiaViz/wiki/zSpace)
+## zSpace Stylus
 
 
 **zSpace system** AR/VR computers are **XR devices** that include a **6DOF stylus** (aka: **zStylus**).
@@ -67,25 +89,3 @@ Hint: can also **L/R-click** on GUI indicator to change modes with (2D) mouse or
 
 
 [[GUI Consoles]]
-
-## [(OS) Command Line Flags](https://github.com/GaiaViz/GaiaViz/wiki/System-Console)
-
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#os-command-line-flags)
-
-The app excepts command line arguments:
-
-- For usage: `C:\>data\GaiaViz.exe -?`
-- To load a dataset:
-    - `-d [path] [file filter]` to load entire dataset:
-        - `C:\>data\GaiaViz -d usr\GaiaViz\ *.*`
-    - `-f` to load specific file(s):
-        - `C:\>data\GaiaViz -f User\[dataset]\csv\[dataset]_np_node.csv -f "usr\other image.jpg"`
-            - Note that double quotes are needed (only) for file paths that have spaces.
-- Launch GaiaViz dataset using the auto-generated .BAT file:
-    - `C:\>data\GaiaViz\User\Edge-AI\2023-08-31\Edge-AI_v3_npe.bat`
-    - You can of course create your own .BAT files:
-        - The specificed data path is relative to the location of the batch file.
-        - MSW batch files require the path only use the backslash (vs POSIX forward slash).
-            - Note that as of W7, a forward or backslash works for almost everything (else).
-
-*KNOWN BUG (issue #298) prevents loading node CSV tables.

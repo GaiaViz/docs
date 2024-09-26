@@ -22,9 +22,6 @@ Use the tools with the keyboard.
 - TOC
 {:toc}
 
-
-
-4. 
 # Requirements & prerequisites
 
 ## Prerequisite:

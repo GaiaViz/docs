@@ -11,7 +11,7 @@ parent: Interface and tools
     - **M** - key will switch the number of lines shown (or hide completely).
     - Keyboard Game Mode actions are described above.
 
-### [(GUI) Command Console
+### (GUI) Command Console
 
 - **Enter** key - Enters Command Console (from Game Mode).
 - Type '**?**' and press **Enter** for command usage '**help**'.
