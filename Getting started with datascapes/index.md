@@ -1,3 +1,9 @@
+---
+title: Introduction to datascapes
+layout: home
+nav_order: 4
+---
+
 
 1. what is a datascape
 2. designing a datascape

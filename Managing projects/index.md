@@ -1,7 +1,7 @@
 ---
 title: Managing Datascape Projects
 layout: home
-nav_order:
+nav_order: 5
 ---
 # Manage datascapes
 
