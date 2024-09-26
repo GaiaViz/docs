@@ -25,12 +25,13 @@ Use the tools with the keyboard.
 # Requirements & prerequisites
 
 ## Prerequisite:
+
 - Navigation is pretty straight forward
 - GaiaViz operators needs to be familiar with 3D tools and data wrangling process.
 
 The minimum requirements for GaiaViz are:
 
-| Hardware    | Operating system               | Memory:                                                                    |
+| Item        | Requirements                   | Notes                                                                   |
 | ----------- | ------------------------------ | -------------------------------------------------------------------------- |
 | Hardware    | Dedicated GPU                  |                                                                            |
 | OS          | windows app + DLL              | *Non-official macOS using whiskey bottles<br>, a PC game emulator for mac* |
@@ -49,7 +50,6 @@ The minimum requirements for GaiaViz are:
 
 memory: as big as the dataset you wish to work with
 dedicated GPU (the bigger GPU, the bigger dataset can be loaded
-
 
 ## Software
 

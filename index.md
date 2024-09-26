@@ -15,11 +15,10 @@ GaiaViz is an immersive 3D visualization engine that lets you encode and display
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
------------------------------------------------------------------
-# Introduction: What is GaiaViz?
+---------------------------------------
+# GaiaViz: a game engine for your data
 
 GaiaViz is an open source real-time interactive 3D visualization software with a wide variety of use cases such as live monitoring, files and asset management, exploratory analytics, systems visualization.
-
 
 GaiaViz core application can be extended through additional modules and adjusted to your needs by many configuration options.
 
@@ -57,28 +56,23 @@ explains the capabilities and how they can be maximized across different groups 
 | creators<br>datascape designers | - support wide range of colors, media type               |
 | data analystists                | - python and CSV workflow<br>- fast C core               |
 
-Common use case for GaiaViz are:
+## Common use case for GaiaViz are:
 - live biometric analytics for health and sport
 - computer vision QA for manufacturing
 - psychographic visualization for inventory management
 - global humanitarian resource coordination
 - socio-economic system analytics 
  
-# Datasource
-
-
-SQL database connexion
-live video 
-edgeAI signals outputs
-
-# Controllers
-mouse and keyboard
-touchscreens
-3D mouse
 
 # Features and functionality
 functional documentation details every functions of the solution
 - detailed infos about features and functionalities of the software, helping to understand the capabilities and benefits
 
+## Multiple datasource
 
+csv ; images ; live video  ; edgeAI signals outputs over network
 
+## Controllers
+mouse and keyboard, touchscreens , 3D mouse
+
+## Game-like interactivity

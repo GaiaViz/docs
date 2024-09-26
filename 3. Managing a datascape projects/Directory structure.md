@@ -2,6 +2,7 @@
 title: Directory structure
 layout: home
 nav_order: 3
+parent: Managing Datascape Projects
 ---
 
 ```
