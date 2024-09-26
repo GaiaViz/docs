@@ -1,2 +1,4 @@
 ---
+title: Prototypes
+layout: home
 ---
