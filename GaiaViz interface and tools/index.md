@@ -1,7 +1,12 @@
-
+---
+title: Interface and tools
+layout: home
+nav_order: 3
+---
 # ## Screen Appearance: The Window and the Console
 
-The main windows give you the datascape and the console log events happening. Both need to be opened ;)
+The main windows give you the datascape and the console log events happening.
+Both need to be opened ;)
 # Controllers
 
 3D mouse
