@@ -1,8 +1,12 @@
 ---
-title: Keyboard - Game Mode
+title: Keyboard and Mouse
 layout: home
-parent: Keyboard and Mouse
+parent: Interface and tools
 ---
+# Keyboard and Mouse Behaviour
+GaiaViz is designed to be controlled simultaneously by the mouse and the keyboard. They behave independantl
+
+
 
 ## Keyboard - Game Mode
 

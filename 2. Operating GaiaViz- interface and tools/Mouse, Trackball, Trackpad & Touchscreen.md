@@ -1,3 +1,9 @@
+---
+title: Mouse
+layout: home
+parent: Keyboard and Mouse
+---
+
 ## Mouse, Trackball, Trackpad & Touchscreen
 
 

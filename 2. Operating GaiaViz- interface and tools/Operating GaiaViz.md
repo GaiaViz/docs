@@ -1,6 +1,7 @@
 ---
 title: Operating GaiaViz
 layout: home
+parent: Interface and tools
 ---
 
 
