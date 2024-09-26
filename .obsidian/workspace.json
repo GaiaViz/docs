@@ -10,7 +10,7 @@
           {
             "id": "19519d61d235db10",
             "type": "tabs",
-            "dimension": 52.66841644794401,
+            "dimension": 68.65800865800867,
             "children": [
               {
                 "id": "af4365e2fabd0ec1",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Quickstart/Configuration.md",
+                    "file": "GaiaViz interface and tools/index.md",
                     "mode": "source",
                     "source": false
                   }
@@ -29,7 +29,7 @@
           {
             "id": "d7635c9e87836b19",
             "type": "tabs",
-            "dimension": 47.331583552055996,
+            "dimension": 31.341991341991342,
             "children": [
               {
                 "id": "0e86a503e061d678",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quickstart/Configuration.md",
+                "file": "GaiaViz interface and tools/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quickstart/Configuration.md",
+                "file": "GaiaViz interface and tools/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quickstart/Configuration.md"
+                "file": "GaiaViz interface and tools/index.md"
               }
             }
           }
@@ -175,15 +175,15 @@
   },
   "active": "af4365e2fabd0ec1",
   "lastOpenFiles": [
-    "Quickstart/index.md",
-    "Quickstart/System Requirements.md",
-    "Quickstart/Installation and updating.md",
-    "Quickstart/Configuration.md",
-    "index.md",
-    "GaiaViz interface and tools/index.md",
     "GaiaViz interface and tools/Working with Colors.md",
-    "Tutorials and demos/edge-ai.md",
+    "GaiaViz interface and tools/index.md",
     "other.md",
+    "Quickstart/System Requirements.md",
+    "Quickstart/Configuration.md",
+    "Quickstart/index.md",
+    "Quickstart/Installation and updating.md",
+    "index.md",
+    "Tutorials and demos/edge-ai.md",
     "7. FAQ - glossary - services.md",
     "Getting started with datascapes/index.md",
     "Managing projects/index.md",
