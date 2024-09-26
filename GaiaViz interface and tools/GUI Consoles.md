@@ -1,6 +1,6 @@
 ## GUI Consoles
 
-### [Keyboard - Game Mode](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#keyboard---game-mode) Console
+### Keyboard - Game Mode Console
 
 - Outputs user actions and system messages (status, warn, err...)
     - **M** - key will switch the number of lines shown (or hide completely).
@@ -12,7 +12,7 @@
 - Type '**?**' and press **Enter** for command usage '**help**'.
 - **Esc** key - leave Command Console and return keyboard to **Game Mode**.
 
-### [Text Tag Console](https://github.com/GaiaViz/GaiaViz/wiki/Text-Tags)
+### Text Tag Console
 
 - **T** - Toggles the **Tag Tool** ON/OFF.
     - **Enter** - switches between **Tag Edit** and **Tag Style**:
@@ -25,6 +25,8 @@
             - **F** - changes the font type (**Shift+F** for previous).
             - **Z** - scales the tag size up (**Shift+Z** scales down).
             - **B** - changes the tag box style (outline or node color text).
+
+
 - Camera mode (**C** key) controls scene wide tag view behavior:
     - **Z** - scales display size of all tags.
     - **Alt+Z** - changes all (visible) tags view mode, as follows:
@@ -34,6 +36,3 @@
         - **Distance Scale** mode '3' scales, but closer is proportionally smaller.
     - Camera tag view settings are unique to each camera.
     - Camera settings do NOT affect the tag settings.
-
-### [DB Console](https://github.com/GaiaViz/GaiaViz/wiki/MySQL)
-- MySQL is currently deprecated, PostgreSQL is the planned replacement.
