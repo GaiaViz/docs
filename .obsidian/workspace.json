@@ -23,8 +23,33 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "4b15a4f283316263",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GaiaViz interface and tools/Modes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d2e2de7fdc3a365c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GaiaViz interface and tools/Tools.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "d7635c9e87836b19",
@@ -112,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GaiaViz interface and tools/index.md",
+                "file": "GaiaViz interface and tools/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GaiaViz interface and tools/index.md",
+                "file": "GaiaViz interface and tools/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GaiaViz interface and tools/index.md"
+                "file": "GaiaViz interface and tools/Tools.md"
               }
             }
           }
@@ -173,21 +198,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af4365e2fabd0ec1",
+  "active": "d2e2de7fdc3a365c",
   "lastOpenFiles": [
-    "GaiaViz interface and tools/Working with Colors.md",
+    "GaiaViz interface and tools/Modes.md",
+    "GaiaViz interface and tools/Tools.md",
     "GaiaViz interface and tools/index.md",
+    "Tutorials and demos/Working with Colors.md",
+    "index.md",
     "other.md",
+    "README.md",
     "Quickstart/System Requirements.md",
     "Quickstart/Configuration.md",
     "Quickstart/index.md",
     "Quickstart/Installation and updating.md",
-    "index.md",
     "Tutorials and demos/edge-ai.md",
     "7. FAQ - glossary - services.md",
     "Getting started with datascapes/index.md",
     "Managing projects/index.md",
-    "README.md",
     "Untitled",
     "Managing projects/prototypes.md",
     "Quickstart/0.1- Quick start.md",
