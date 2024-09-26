@@ -1,6 +1,7 @@
 ---
 title: Quickstart
 layout: home
+nav_order: 2
 ---
 
 GaiaViz is quick to try out, just donwload the zip file, extract it on a windows machine and run the gaiaviz.exe app from its folder.

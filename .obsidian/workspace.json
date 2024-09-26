@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Glossary.md",
+                "file": "Tutorials and demos/edge-ai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e86a503e061d678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quickstart/Installation and configuration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Glossary.md",
+                "file": "Quickstart/Installation and configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Glossary.md",
+                "file": "Quickstart/Installation and configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Glossary.md"
+                "file": "Quickstart/Installation and configuration.md"
               }
             }
           }
@@ -146,14 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d16fc13d2a1961b",
+  "active": "0e86a503e061d678",
   "lastOpenFiles": [
-    "0.1- Quick start.md",
-    "1. The GaiaViz interface.md",
-    "7. FAQ.md",
-    "0-About GaiaViz.md",
-    "Quickstart/Installation and configuration.md",
     "Quickstart/index.md",
-    "Quickstart/System Requirements.md"
+    "Quickstart/0.1- Quick start.md",
+    "0-About GaiaViz.md",
+    "3. Manage datascape project.md",
+    "2. Getting started with datascape.md",
+    "1. The GaiaViz interface.md",
+    "Colors.md",
+    "getting-started.md",
+    "index.md",
+    "Tutorials and demos/edge-ai.md",
+    "Tutorials and demos/index.md",
+    "Untitled",
+    "Quickstart/System Requirements.md",
+    "Quickstart/Installation and configuration.md",
+    "README.md",
+    "8. Glossary.md",
+    "7. FAQ.md"
   ]
 }
