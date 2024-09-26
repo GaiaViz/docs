@@ -2,6 +2,7 @@
 title: Mouse
 layout: home
 parent: Keyboard and Mouse
+nav_order: 2
 ---
 
 ## Mouse, Trackball, Trackpad & Touchscreen

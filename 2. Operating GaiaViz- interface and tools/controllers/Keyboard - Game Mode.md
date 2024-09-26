@@ -2,6 +2,7 @@
 title: Keyboard - Game Mode
 layout: home
 parent: Keyboard and Mouse
+nav_order: 1
 ---
 
 ## Keyboard - Game Mode
