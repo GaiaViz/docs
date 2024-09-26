@@ -4,74 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "68aef9864f6d139a",
-        "type": "split",
+        "id": "19519d61d235db10",
+        "type": "tabs",
         "children": [
           {
-            "id": "19519d61d235db10",
-            "type": "tabs",
-            "dimension": 68.65800865800867,
-            "children": [
-              {
-                "id": "af4365e2fabd0ec1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "GaiaViz interface and tools/index.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4b15a4f283316263",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "GaiaViz interface and tools/Modes.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d2e2de7fdc3a365c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "GaiaViz interface and tools/Tools.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "af4365e2fabd0ec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GaiaViz interface and tools/index.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 2
+            }
           },
           {
-            "id": "d7635c9e87836b19",
-            "type": "tabs",
-            "dimension": 31.341991341991342,
-            "children": [
-              {
-                "id": "0e86a503e061d678",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Quickstart/Configuration.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "4b15a4f283316263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GaiaViz interface and tools/Modes.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "d2e2de7fdc3a365c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GaiaViz interface and tools/Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 275.5
   },
   "right": {
     "id": "b8a7cec911f1d843",
@@ -186,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 639.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,33 +173,35 @@
   },
   "active": "d2e2de7fdc3a365c",
   "lastOpenFiles": [
-    "GaiaViz interface and tools/Modes.md",
-    "GaiaViz interface and tools/Tools.md",
+    "Keyboard - Game Mode.md",
+    "Mouse, Trackball, Trackpad & Touchscreen.md",
+    "GaiaViz interface and tools/Load & Save.md",
     "GaiaViz interface and tools/index.md",
+    "GaiaViz interface and tools/Tools.md",
+    "Quickstart/Configuration.md",
+    "Quickstart/index.md",
+    "Tutorials and demos/index.md",
+    "Managing projects/index.md",
+    "GaiaViz interface and tools/Modes.md",
     "Tutorials and demos/Working with Colors.md",
     "index.md",
     "other.md",
     "README.md",
     "Quickstart/System Requirements.md",
-    "Quickstart/Configuration.md",
-    "Quickstart/index.md",
     "Quickstart/Installation and updating.md",
     "Tutorials and demos/edge-ai.md",
     "7. FAQ - glossary - services.md",
     "Getting started with datascapes/index.md",
-    "Managing projects/index.md",
     "Untitled",
     "Managing projects/prototypes.md",
     "Quickstart/0.1- Quick start.md",
     "Quickstart/getting-started.md",
     "Managing projects/3. Manage datascape project.md",
-    "Tutorials and demos/index.md",
     "Getting started with datascapes",
     "0-About GaiaViz.md",
     "GaiaViz interface and tools/1. The GaiaViz interface.md",
     "GaiaViz interface and tools",
     "8. Glossary.md",
-    "12-Professionnal services.md",
     "Managing projects"
   ]
 }
