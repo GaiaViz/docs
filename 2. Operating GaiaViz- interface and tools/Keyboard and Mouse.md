@@ -1,7 +1,7 @@
 ---
 title: Keyboard and Mouse
 layout: home
-parent: Interface and tools
+parent: Operating GaiaViz
 ---
 # Keyboard and Mouse Behavior
-GaiaViz is designed to be controlled simultaneously by the mouse and the keyboard. They behave independant
+GaiaViz is designed to be controlled simultaneously by the mouse and the keyboard. They behave independantly.
