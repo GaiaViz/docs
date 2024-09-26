@@ -4,47 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "3c9b4e2448514091",
-        "type": "tabs",
+        "id": "68aef9864f6d139a",
+        "type": "split",
         "children": [
           {
-            "id": "6d16fc13d2a1961b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorials and demos/edge-ai.md",
-                "mode": "source",
-                "source": false
+            "id": "19519d61d235db10",
+            "type": "tabs",
+            "dimension": 52.66841644794401,
+            "children": [
+              {
+                "id": "af4365e2fabd0ec1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Quickstart/Configuration.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "0e86a503e061d678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+            "id": "d7635c9e87836b19",
+            "type": "tabs",
+            "dimension": 47.331583552055996,
+            "children": [
+              {
+                "id": "0e86a503e061d678",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Quickstart/Configuration.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "af4365e2fabd0ec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. FAQ - glossary - services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -94,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 343.5
   },
   "right": {
     "id": "b8a7cec911f1d843",
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. FAQ - glossary - services.md",
+                "file": "Quickstart/Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. FAQ - glossary - services.md",
+                "file": "Quickstart/Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,16 +152,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. FAQ - glossary - services.md"
+                "file": "Quickstart/Configuration.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,24 +175,24 @@
   },
   "active": "af4365e2fabd0ec1",
   "lastOpenFiles": [
+    "Quickstart/index.md",
+    "Quickstart/System Requirements.md",
+    "Quickstart/Installation and updating.md",
+    "Quickstart/Configuration.md",
     "index.md",
-    "Getting started with datascapes/index.md",
-    "Managing projects/index.md",
     "GaiaViz interface and tools/index.md",
     "GaiaViz interface and tools/Working with Colors.md",
+    "Tutorials and demos/edge-ai.md",
     "other.md",
+    "7. FAQ - glossary - services.md",
+    "Getting started with datascapes/index.md",
+    "Managing projects/index.md",
     "README.md",
     "Untitled",
     "Managing projects/prototypes.md",
-    "Quickstart/Configuration.md",
-    "Quickstart/Installation and configuration.md",
-    "Quickstart/System Requirements.md",
-    "Quickstart/index.md",
     "Quickstart/0.1- Quick start.md",
     "Quickstart/getting-started.md",
     "Managing projects/3. Manage datascape project.md",
-    "7. FAQ - glossary - services.md",
-    "Tutorials and demos/edge-ai.md",
     "Tutorials and demos/index.md",
     "Getting started with datascapes",
     "0-About GaiaViz.md",

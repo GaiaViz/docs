@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-GaiaViz is an immersive 3D visulization engine that lets you encode and display millions of data attributes onto beautiful 3D structures. This unique 3D visual analytics solutions inspire the mind.
+GaiaViz is an immersive 3D visualization engine that lets you encode and display millions of data attributes onto beautiful 3D structures. This unique 3D visual analytics solutions inspire the mind.
 
 
 -----------------------------------------------------------------
@@ -18,14 +18,15 @@ If you are new to GaiaViz, learn the basics of datascaping with GaiaViz using ou
 3. Try out the tools !
 
 You can request a custom demonstration from our team: contact us.
-For technical documentation visit the [GaiaViz Developper Docs](https://docs.gaiaviz.com)
 
-# Product introduction: What is GaiaViz?
+# Introduction: What is GaiaViz?
+
 GaiaViz is an open source real-time interactive 3D visualization software with a wide variety of use cases such as live monitoring, files and asset management, exploratory analytics, systems visualization.
 
 
-GaiaViz consists of a core application, and can be extended through additional modules and adjusted to your needs by many configuration options.
+GaiaViz core application can be extended through additional modules and adjusted to your needs by many configuration options.
 
+-----------
 # Key benefits
 
 - Free to use
@@ -92,33 +93,6 @@ functional documentation details every functions of the solution
 - project files and folders organization
 - controllers and sensors
 
-## Requirements & prerequisites
-
-Prerequisite:
-- Navigation is pretty straight forward
-- GaiaViz operators needs to be familiar with 3D tools and data wrangling process.
-
-
-The minimum requirements for GaiaViz are:
-
-| Hardware    | Operating system               | Memory:                                                                    |
-| ----------- | ------------------------------ | -------------------------------------------------------------------------- |
-| Hardware    | Dedicated GPU                  |                                                                            |
-| OS          | windows app + DLL              | *Non-official macOS using whiskey bottles<br>, a PC game emulator for mac* |
-| RAM :       | 8Go available                  |                                                                            |
-| Disk space: | adapted to your dataset volume |                                                                            |
-
-> [!INFO] 
-> Depending on your use-case, the required memory may vary
-
-
-- Data wrangling tools: Spyder environment / Anaconda 
-- nVidia drivers
-- live video 
-- sql connection: a MySQL database 
-
--------------------------
-
 ## Installation, set up & configuration
 step-by-step instructions guiding users through getting it ready for use, integrating with other products, etc.
 ## Windows and interfaces
@@ -129,7 +103,7 @@ step-by-step instructions guiding users through getting it ready for use, integr
 
 
 
-# Additionnal References
+# Additional References
 - online tutorials
 - user forums
 - support channels
@@ -153,7 +127,7 @@ When you encounter a bug or need assistance from GaiaViz support, it's helpful t
 3. Explain how to reproduce the bug, so we know where to start looking
 
 
-###### Contact GaiaViz support
+# Contact GaiaViz support
 
 GaiaViz offers support only for inquiries about ...
 If you need help with any of those topics, [email the GaiaViz team](mailto:hello@gaiaviz.com)
