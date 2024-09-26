@@ -4,7 +4,13 @@ layout: home
 nav_order: 4
 parent: Managing Datascape Projects
 ---
+# Introduction to datascapes
+{: .no_toc }
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC {:toc}
 
 1. what is a datascape
 2. designing a datascape
