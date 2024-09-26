@@ -2,6 +2,7 @@
 title: Introduction to datascapes
 layout: home
 nav_order: 4
+parent: Managing Datascape Projects
 ---
 
 

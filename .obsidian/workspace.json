@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Operating GaiaViz- interface and tools/GUI Consoles.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Operating GaiaViz- interface and tools/GUI Consoles.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Operating GaiaViz- interface and tools/GUI Consoles.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Operating GaiaViz- interface and tools/GUI Consoles.md"
+                "file": "index.md"
               }
             }
           }
@@ -173,25 +173,25 @@
   },
   "active": "d2e2de7fdc3a365c",
   "lastOpenFiles": [
-    "2. Operating GaiaViz- interface and tools/index.md",
-    "2. Operating GaiaViz- interface and tools/Operating GaiaViz.md",
-    "3. Managing a datascape projects/index.md",
-    "3. Managing a datascape projects/Introduction to datascapes.md",
     "3. Managing a datascape projects/Load & Save.md",
     "3. Managing a datascape projects/prototypes.md",
+    "3. Managing a datascape projects/Introduction to datascapes.md",
+    "3. Managing a datascape projects/index.md",
+    "Tutorials and demos/index.md",
+    "2. Operating GaiaViz- interface and tools/GUI Consoles.md",
+    "2. Operating GaiaViz- interface and tools/index.md",
+    "2. Operating GaiaViz- interface and tools/Operating GaiaViz.md",
     "other.md",
     "Untitled.md",
     "README.md",
     "index.md",
     "7. FAQ - glossary - services.md",
-    "2. Operating GaiaViz- interface and tools/GUI Consoles.md",
     "2. Operating GaiaViz- interface and tools/Modes.md",
     "2. Operating GaiaViz- interface and tools/Keyboard - Game Mode.md",
     "2. Operating GaiaViz- interface and tools/Mouse, Trackball, Trackpad & Touchscreen.md",
     "2. Operating GaiaViz- interface and tools/Tools.md",
     "1 .Installation and set up/Configuration.md",
     "1 .Installation and set up/index.md",
-    "Tutorials and demos/index.md",
     "Tutorials and demos/Working with Colors.md",
     "1 .Installation and set up/System Requirements.md",
     "1 .Installation and set up/Installation and updating.md",
