@@ -1,6 +1,11 @@
-## [Keyboard - Game Mode](https://github.com/GaiaViz/GaiaViz/wiki/Tools#keyboard-game-mode)
+---
+title: Keyboard
+layout: home
+parent: Interface and tools
+---
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#keyboard---game-mode)
+## Keyboard - Game Mode
+
 
 Note: Numbers, -, =, etc apply to the main keyboard, not the number pad.
 
@@ -191,7 +196,6 @@ The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on
 
 ### Animation - Channels & Tracks
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#animation---channels--tracks)
 
 - **P** - Plays track animation ([dataset]_np_ch-tracks.csv & [dataset]_np_ch-map.csv)
     - Press **P** again to pause/play.
@@ -202,11 +206,7 @@ The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on
 
 ### Browser URL & record_id Retrieval
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#browser-url--record_id-retrieval)
-
 - **U** - Opens Tag title URL in the system browser, supports HTML href="...".
     - If no URL in title, then uses default URL with record_id appended.
     - Can also open applications and files based on OS default mime type.
     - ALSO... launches URL as tag title ie: [http://example.com](http://example.com) or app.exe
-
----

@@ -1,3 +1,9 @@
+---
+title: GUI consoles
+layout: home
+parent: Interface and tools
+---
+
 
 ### Keyboard - Game Mode Console
 

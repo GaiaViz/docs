@@ -1,4 +1,4 @@
-# Operating the product
+# Operating the software
 
 - interface 
 - project files and folders organization
