@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Operating GaiaViz- interface and tools/Supported hardware.md",
+                "file": "2. Operating GaiaViz- interface and tools/index.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Operating GaiaViz- interface and tools/Supported hardware.md",
+                "file": "2. Operating GaiaViz- interface and tools/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Operating GaiaViz- interface and tools/Supported hardware.md",
+                "file": "2. Operating GaiaViz- interface and tools/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Operating GaiaViz- interface and tools/Supported hardware.md"
+                "file": "2. Operating GaiaViz- interface and tools/index.md"
               }
             }
           }
@@ -173,13 +173,13 @@
   },
   "active": "76d79426499e6d30",
   "lastOpenFiles": [
-    "2. Operating GaiaViz- interface and tools/Keyboard - Game Mode.md",
-    "2. Operating GaiaViz- interface and tools/Keyboard and Mouse.md",
     "2. Operating GaiaViz- interface and tools/Supported hardware.md",
-    "2. Operating GaiaViz- interface and tools/index.md",
+    "2. Operating GaiaViz- interface and tools/Mouse, Trackball, Trackpad & Touchscreen.md",
     "2. Operating GaiaViz- interface and tools/Modes and tools.md",
     "2. Operating GaiaViz- interface and tools/GUI Consoles.md",
-    "2. Operating GaiaViz- interface and tools/Mouse, Trackball, Trackpad & Touchscreen.md",
+    "2. Operating GaiaViz- interface and tools/index.md",
+    "2. Operating GaiaViz- interface and tools/Keyboard - Game Mode.md",
+    "2. Operating GaiaViz- interface and tools/Keyboard and Mouse.md",
     "2. Operating GaiaViz- interface and tools/Operating GaiaViz.md",
     "index.md",
     "Overview.md",

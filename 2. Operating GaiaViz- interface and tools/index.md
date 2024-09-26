@@ -6,7 +6,7 @@ nav_order: 3
 
 # Operating the software
 
-- interface 
+- interface
 - project files and folders organization
 - controllers and sensors
 ## Windows and interfaces
