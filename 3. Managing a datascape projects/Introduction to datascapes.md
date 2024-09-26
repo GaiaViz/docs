@@ -10,13 +10,14 @@ parent: Managing Datascape Projects
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC {:toc}
+1. TOC
+{:toc}
 
-1. what is a datascape
-2. designing a datascape
-3. create a datascape
-4. features
-5. import a datascape
+3. what is a datascape
+4. designing a datascape
+5. create a datascape
+6. features
+7. import a datascape
 
 Data
 

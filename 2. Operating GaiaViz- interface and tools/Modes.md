@@ -23,8 +23,8 @@ A grid create
 
 Press `T` to enter the tag mode, `f` to cycle the font
 
-## Console mode
+## Console mode `alt+enter`
 
 The console mode allows for finer selection, for examples by branch level or color.
-Enter the console mode by pressing the `alt+enter` key combinaison.
+Enter the console mode by pressing the  key combinaison.
 
