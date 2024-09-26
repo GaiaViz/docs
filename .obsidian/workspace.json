@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Getting started with datascapes/index.md",
+                "file": "7. FAQ - glossary - services.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting started with datascapes/index.md",
+                "file": "7. FAQ - glossary - services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting started with datascapes/index.md",
+                "file": "7. FAQ - glossary - services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting started with datascapes/index.md"
+                "file": "7. FAQ - glossary - services.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "af4365e2fabd0ec1",
   "lastOpenFiles": [
-    "Managing projects/index.md",
+    "index.md",
     "Getting started with datascapes/index.md",
+    "Managing projects/index.md",
     "GaiaViz interface and tools/index.md",
     "GaiaViz interface and tools/Working with Colors.md",
-    "index.md",
     "other.md",
     "README.md",
     "Untitled",
