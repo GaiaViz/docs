@@ -37,9 +37,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Managing a datascape projects/prototypes.md",
+                "file": "Quickstart.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Managing a datascape projects/prototypes.md",
+                "file": "Quickstart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Managing a datascape projects/prototypes.md",
+                "file": "Quickstart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Managing a datascape projects/prototypes.md"
+                "file": "Quickstart.md"
               }
             }
           }
@@ -173,15 +173,16 @@
   },
   "active": "76d79426499e6d30",
   "lastOpenFiles": [
+    "Overview.md",
+    "index.md",
+    "3. Managing a datascape projects/prototypes.md",
     "3. Managing a datascape projects/index.md",
     "3. Managing a datascape projects/Load & Save.md",
     "3. Managing a datascape projects/Introduction to datascapes.md",
-    "3. Managing a datascape projects/prototypes.md",
     "3. Managing a datascape projects/Directory structure.md",
     "2. Operating GaiaViz- interface and tools/Operating GaiaViz.md",
     "Quickstart.md",
     "README.md",
-    "index.md",
     "youtubePlayer.html.md",
     "_includes/youtubePlayer.html",
     "youtubePlayer.html",
