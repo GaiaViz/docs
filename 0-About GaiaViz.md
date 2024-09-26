@@ -133,9 +133,9 @@ step-by-step instructions guiding users through getting it ready for use, integr
 # Troubleshooting tips
 
 
-# [[7. FAQ|FAQ]]
+# [[7. FAQ - glossary - services|FAQ]]
 
-# [[8. Glossary|Glossary]]
+# [[7. FAQ - glossary - services|Glossary]]
 
 
 # Additionnal References

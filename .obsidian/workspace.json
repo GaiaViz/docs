@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quickstart/Installation and configuration.md",
+                "file": "GaiaViz interface and tools/1. The GaiaViz interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.5
   },
   "right": {
     "id": "b8a7cec911f1d843",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quickstart/Installation and configuration.md",
+                "file": "GaiaViz interface and tools/1. The GaiaViz interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quickstart/Installation and configuration.md",
+                "file": "GaiaViz interface and tools/1. The GaiaViz interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quickstart/Installation and configuration.md"
+                "file": "GaiaViz interface and tools/1. The GaiaViz interface.md"
               }
             }
           }
@@ -161,22 +161,25 @@
   },
   "active": "0e86a503e061d678",
   "lastOpenFiles": [
+    "GaiaViz interface and tools",
+    "0-About GaiaViz.md",
+    "2. Getting started with datascape.md",
+    "Working with Colors.md",
+    "README.md",
+    "7. FAQ - glossary - services.md",
+    "8. Glossary.md",
+    "12-Professionnal services.md",
+    "Managing projects/3. Manage datascape project.md",
+    "Managing projects/prototypes.md",
+    "Managing projects",
+    "Quickstart/Installation and configuration.md",
     "Quickstart/index.md",
     "Quickstart/0.1- Quick start.md",
-    "0-About GaiaViz.md",
-    "3. Manage datascape project.md",
-    "2. Getting started with datascape.md",
-    "1. The GaiaViz interface.md",
-    "Colors.md",
-    "getting-started.md",
+    "GaiaViz interface and tools/1. The GaiaViz interface.md",
+    "Quickstart/getting-started.md",
     "index.md",
     "Tutorials and demos/edge-ai.md",
     "Tutorials and demos/index.md",
-    "Untitled",
-    "Quickstart/System Requirements.md",
-    "Quickstart/Installation and configuration.md",
-    "README.md",
-    "8. Glossary.md",
-    "7. FAQ.md"
+    "Quickstart/System Requirements.md"
   ]
 }
