@@ -81,7 +81,7 @@ To import a datascape, hit the "L" key, navigate the file dialog to the
 # Advanced datascapes: Python
 - tracks and channels
 
-## Automatically with data tools
+## Programmatically with data tools
 
 
 

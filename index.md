@@ -11,3 +11,5 @@ GaiaViz is an immersive 3D visualization engine that lets you encode and display
 
 
 This documentation is a user guide covering how to install and operate GaiaViz. It will also explain the typical datascape creation workflow.
+
+You can explore GaiaViz functionalities 
