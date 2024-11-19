@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## OSC (Open Sound Control)
 - OSC port and IP config is stored in the global table ('User/_Global_/csv/np_globals.csv')
 

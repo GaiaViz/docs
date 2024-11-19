@@ -2,6 +2,7 @@
 title: Working with Colors
 layout: home
 parent: Tutorials and demos
+nav_order:
 ---
 
 You can use colors in GaiaViz for
