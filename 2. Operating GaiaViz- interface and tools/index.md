@@ -4,7 +4,7 @@ layout: home
 nav_order: 5
 ---
 
-# Operating the software
+# Operating GaiaViz software
 
 - interface
 - project files and folders organization
