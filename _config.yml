@@ -8,13 +8,13 @@ url: https://gaiaviz.github.io/docs
 
 # Aux links for the upper right navigation
 aux_links:
+  Download GaiaViz:  https://gaiaviz.com/downloads
   Docs Repository: https://github.com/gaiaviz/docs
   Technical Docs: https://github.com/gaiaviz/gaiaviz/wiki
-  Download GaiaViz:  https://gaiaviz.com/donwloads
+
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
-
 
 
 # Color scheme supports "light" (default) and "dark"
