@@ -19,3 +19,5 @@ vendor/
 .obsidian/
 /.obsidian
 .obsidian/workspace.json
+
+templates/
