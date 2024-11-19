@@ -1,3 +1,9 @@
+---
+title: Animation - Channels and Tracks
+layout: home
+nav_order: 
+parent:
+---
 
 In theory, current constants set to support:
 
