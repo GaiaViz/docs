@@ -90,12 +90,4 @@ Global files
 - OSC ports (+ remotes, find them)
 - projects files structure
 
-
-## OSC (Open Sound Control)
-- OSC port and IP config is stored in the global table ('User/_Global_/csv/np_globals.csv')
-
-Network access Permissions for OSC
-
-To use some of GaiaViz features, you'll need to give it Network Access authorization from the pop-up dialog.
-
-When GaiaViz launches for the first time, or when you configure the OSC ports the first time, windows will automatically present you the dialog box.
+If you wish to stream data over OSC or to remotely control GaiaViz using, please refer to this page for further details on the topic : [[OSC (Open Sound Control)]]
