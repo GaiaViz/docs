@@ -1,6 +1,6 @@
 ---
 title: 
-parent: 
+parent: get
 nav_order: 
 layout: home
 ---

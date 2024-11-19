@@ -13,16 +13,14 @@ parent: Managing Datascape Projects
 1. TOC
 {:toc}
 
+1. what is a datascape
+2. designing a datascape
+3. create a datascape
+4. features
+5. import a datascape
 
-
-
-3. what is a datascape
-4. designing a datascape
-5. create a datascape
-6. features
-7. import a datascape
-
-
+A datascape is as much the visual environment where you interact with your data as it is the data and media files composing it.
+A single node file is already a datascape.
 
 # Datascape components and complexity
 

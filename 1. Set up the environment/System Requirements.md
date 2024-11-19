@@ -2,6 +2,7 @@
 title: System Requirements
 nav_order: 1
 layout: home
+parent: Getting started
 ---
 
 ## Table of contents

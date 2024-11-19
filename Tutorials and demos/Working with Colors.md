@@ -22,6 +22,6 @@ The colors are managed from the node file, the related field are either:
 
 The RGB value apply in priority, while 
 
---
+----
 See also:
 - Transparency
