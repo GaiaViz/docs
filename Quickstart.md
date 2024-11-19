@@ -38,7 +38,7 @@ The minimum requirements for GaiaViz are:
 | RAM :       | 8Go available                  |                                                                            |
 | Disk space: | adapted to your dataset volume |                                                                            |
 
-> [!INFO] 
+{: .info }
 > Depending on your use-case, the required memory may vary
 
 
