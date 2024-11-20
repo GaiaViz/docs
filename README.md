@@ -3,6 +3,9 @@
 This repo contains GaiaViz online user documentation site files. This site is available at : 
 https://gaiaviz.github.io/docs/
 
+<button type="button" name="button" class="btn">Button element</button>
+
+
 It uses [Just the Docs] [Jekyll] theme.
 
 ----
