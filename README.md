@@ -6,7 +6,6 @@ This repo contains GaiaViz online user documentation site files. This site is av
 [![Button_2]][Download]
 
 
-
 <!----------[ Buttons ]--------------------------->
 [Button_1]: https://img.shields.io/badge/Read_GaiaViz_User_Guide-gray?style=plastic
 [Button_2]: https://img.shields.io/badge/Download_from-GaiaViz_website-darkgreen?style=plastic
