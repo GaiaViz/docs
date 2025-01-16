@@ -37,23 +37,23 @@ The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on
 
 ### Camera Mode
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#camera-mode)
+| Hotkey    | Fonction                                                                                                             |
+| --------- | -------------------------------------------------------------------------------------------------------------------- |
+| C         | Enters 'Camera Mode' and next iterates through all cameras.<br>    (By default, the scene starts out with 4 cameras) |
+| N         | creates a new camera object while in Camera mode                                                                     |
+| **Alt+C** | reset camera position                                                                                                |
+| Del       | removes a camera object while in this mode                                                                           |
 
-- **C** - Switches to 'Camera Mode' and iterates through all cameras.
-    - By default, the scene starts out with 4 cameras.
-    - **Alt+C** - reset camera position.
-- **N** creates a new camera object while in Camera mode.
-- **Del** removes a camera object while in this mode.
-
-*Hint: Creating new camera objects can be used to pre-set a journey through specific viewing angles of your viz.
+{:  . important}
+> *Hint: Creating new camera objects can be used to pre-set a journey through specific viewing angles of your viz.
 
 ### Grid Mode
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#grid-mode)
-
-- **G** - Switches to 'Grid Mode' and iterates through all grids.
-- **ALT-G** - toggles an object between **Glyph** and **Grid** types.
-- **N** - Will create a new grid (when 'mouse: grid' mode is active) as a child of the current node (glyph or grid).
+| Hotkey    | Fonction                                                                                                   |
+| --------- | ---------------------------------------------------------------------------------------------------------- |
+| G         | Enters 'Grid Mode' and next iterates through all grids.                                                    |
+| **ALT-G** | toggles an object between **Glyph** and **Grid** types                                                     |
+| **N**     | Will create a new grid (when 'mouse: grid' mode is active) as a child of the current node (glyph or grid). |
 - **`branch_level`** = 0 for ALL grids, Hence, any (root) glyphs directly attached will start at level = 1.
 - Grids are node **`type = 6, np_topo_id = 8`** (plane) with **`np_geometry_id = 21`** (square).
 - Scaling the grid compacts the spacing (translation) of attached (root) nodes but does NOT affect their size, and is axis specific.
