@@ -1,5 +1,8 @@
 ---
 layout: home
+title: OSC (Open Sound Control)
+parent: Tutorials and demos
+nav_order:
 ---
 
 ## OSC (Open Sound Control)

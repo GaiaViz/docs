@@ -61,8 +61,6 @@ explains the capabilities and how they can be maximized across different groups 
  
 
 # Features and functionality
-functional documentation details every functions of the solution
-- detailed infos about features and functionalities of the software, helping to understand the capabilities and benefits
 
 ## Multiple datasource
 
