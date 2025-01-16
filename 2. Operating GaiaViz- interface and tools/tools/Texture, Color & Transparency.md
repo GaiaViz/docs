@@ -1,0 +1,24 @@
+### Texture, Color & Transparency
+
+- **Texture Settings**
+    - **V** - Video or image Texture map (**Shift+V** for previous).
+    - **Alt+V** - increase wireframe thickness (**Shift+Alt+V** to decrease).
+        - *Wireframe thickness does not work in VMware.
+    - Images are loaded from 'User/_Global_/images' folder.
+        - **texture_id** corresponds to the (alpha-numeric) order of loading.
+- **Object Color Settings**
+    - **=** (equal) - next (palette) index color.
+        - **Alt+'='** - next color palette.
+    - **-** (minus) - previous index color.
+        - **Alt+'-'** - previous color palette.
+- **Transparency Settings**
+    - **9** - Less opaque (more transparent).
+    - **0** - More opaque.
+- **Alternate Color (grid lines)**
+    - **Alt+9** - decrease opacity of the grid lines.
+    - **Alt+0** - increase opacity of grid lines.
+    - **Shift+Alt+9** - prev color ID of grid lines.
+    - **Shift+Alt+0** - next color ID of grid lines.
+- **Global Color Settings**
+    - **B** - Background color, toggle between black and white
+    - **8** - Transparency mode (subtractive, additive, dark, none)

@@ -13,4 +13,4 @@ This user guide will cover the basic to get you started in the GaiaViz environme
 
 GaiaViz also provides further technical documentation over the GitHub Wiki, that is referenced through out those pages.
 
-Discover GaiaViz [[functionnalities]], check out the system requirement and.
+Discover GaiaViz [[functionnalities]], check out the system requirement and create your first datascape!
