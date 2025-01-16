@@ -16,15 +16,19 @@ GaiaViz is quick to try out, just download the zip file, extract it on a windows
 Navigate with a mouse, even better, a spacemouse.
 Use the tools with the keyboard.
 
-## Table of contents
-{: .no_toc .text-delta }
 
-- TOC
-{:toc}
+Mouse usage:
+Edit modes (gl)
+- scroll with your mouse wheel to select tools
+- left or right click to use them
 
+Keyboard usage :
+- wasd+qe to move 
+- Shift + ? to di
 
-
-- Data wrangling tools: Spyder environment / Anaconda 
-- nVidia drivers
-- live video
-
+Modes
+- C : camera mode : C
+- Tab : glyph mode
+- G : grid mode
+- T : tag mode
+- Alt+Enter : console mode (Esc to exit)

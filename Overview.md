@@ -71,3 +71,14 @@ csv ; images ; live video  ; edgeAI signals outputs over network
 mouse and keyboard, touchscreens , 3D mouse
 
 ## Game-like interactivity
+
+
+----------------
+
+
+
+- Data wrangling tools: Spyder environment / Anaconda 
+
+
+- nVidia drivers
+- live video

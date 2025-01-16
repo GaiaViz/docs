@@ -4,11 +4,9 @@ layout: home
 nav_order: 4
 parent: Operating GaiaViz
 ---
-
-
 # Tools
 
-
+All tools visible in the sidebar can be used with the mouse, plus a couple others accessible via scrollwhee;
 
 ## Keyboard - Game Mode
 
