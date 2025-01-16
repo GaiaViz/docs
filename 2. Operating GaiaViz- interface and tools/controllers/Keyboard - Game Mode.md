@@ -16,21 +16,24 @@ It is possible to press multiple keys at once (3-5 typical depending on the keyb
 
 ### Global Settings
 
+Here some hotkey that are good to know
+
 | Hotkey | Fonction                                                                                                                                                                                |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Esc    | **Fullscreen** Toggle and also exits console modes (return to **Game Mode**).                                                                                                           |
 | M      | **Menu** display mode (**1, 3 or 40** text lines, toolbar **size** and **hide** GUI).                                                                                                   |
 | B      | Background **Black/White**.                                                                                                                                                             |
 | X      | **Lock axes** so that the **current tool** only effects: **X, Y, XY, XYZ**...<br>    - Hint: **Click** on the toolbar menu axes **[Coord (X/Y/Z): 0.0 ]** to toggle an axis **ON/OFF**. |
-|        |                                                                                                                                                                                         |
+
 ### Mouse Mode (Cam, Grid, Glyph)
 
 The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on by the (2D) mouse. To change the mode, click on the indicator or use the shortcut keys (when keyboard is in 'Game Mode'):
 
-- **C** - Camera mode, repeat to select next camera.
-- **G** - Grid mode, repeat to iterate through grids.
-- **Tab** - Glyph mode, repeat to select next sibling.
-
+| Hotkey | Fonction                                    |
+| ------ | ------------------------------------------- |
+| C      | Camera mode, repeat to select next camera.  |
+| G      | Grid mode, repeat to iterate through grids. |
+| Tab    | Glyph mode, repeat to select next sibling.  |
 *Note that **Shift+(mode key)** will select previous (of same node type).
 
 **The 3D Mouse (ie: SpaceMouse) and zSpace Stylus have operation modes that are completely independent of the (2D) mouse mode.
@@ -87,13 +90,15 @@ The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on
 
 ### Select, Hide & Freeze
 
+| Hotkey       | Fonction                                                                                                                                                                                                                                 |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Spacebar     | toggles the wireframe that indicates a node is selected **ON/OFF**.                                                                                                                                                                      |
+| Alt+Spacebar | toggles current node selection **ON/OFF**.                                                                                                                                                                                               |
+| H            | Hides the object, but it will continue to (invisibly) animate.<br>    - **Shift+H** to unhide all nodes.<br>    - **Alt+H** to hide nodes by increasing branch level.<br>    - **Shift+Alt+H** to hide nodes by decreasing branch level. |
+|              |                                                                                                                                                                                                                                          |
+|              |                                                                                                                                                                                                                                          |
 
-- **Spacebar** - toggles the wireframe that indicates a node is selected **ON/OFF**.
-    - **Alt+Spacebar** - toggles current node selection **ON/OFF**.
-- **H** - Hides the object, but it will continue to (invisibly) animate.
-    - **Shift+H** to unhide all nodes.
-    - **Alt+H** to hide nodes by increasing branch level.
-    - **Shift+Alt+H** to hide nodes by decreasing branch level.
+
 - **F** - Freeze will stop the object's movement and lock editing it.
 - **`** (left single quote) - **Default** behavior is to toggle **Select ALL/NONE** glyphs.
     - **Alt+`** will invert the selection (*future feature).
