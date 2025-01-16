@@ -9,8 +9,13 @@ nav_order: 3
 
 The **3Dconnexion SpaceMouse** (family) are 6DOF devices that operate the camera and modify glyphs (currently selected by the keyboard, system mouse/trackpad/touchscreen or zSpace Stylus).
 
-- The **[3Dmouse: (tool) ]** GUI indicator is visible (**ONLY**) when a [3Dconnexion driver is installed](https://github.com/GaiaViz/GaiaViz/wiki/3D-Mouse#spacemouse).
-- **L button** - changes mode between **Camera** (**blue**) and **Glyph** (**red**).
+
+When your SpaceMouse is plugged in, your will notice an additional line in the side bar: the "**[3Dmouse: (tool) ]**" GUI indicator is visible (**ONLY**) when a [3Dconnexion driver is installed](https://github.com/GaiaViz/GaiaViz/wiki/3D-Mouse#spacemouse).
+
+Choose the SpaceMouse mode between **Camera** (**blue**) and **Glyph** (**red**) by clicking on the
+- **L button** of the SpaceMouse
+- On the gui indicator with your mouse
+
 - **R button** - changes **tool** type:
     - Camera mode (**blue**) has two navigation methods:
         - **[Orbit]** - around (**Twist/Tilt**) and zoom in/out (**Forward/Back**) of currently selected object.
