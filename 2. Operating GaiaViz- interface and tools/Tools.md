@@ -1,30 +1,10 @@
 ---
-title: Modes and tools
+title: Tools
 layout: home
-nav_order: 1
+nav_order: 2
 parent: Operating GaiaViz
 ---
-# Modes
 
-GaiaViz has different modes that you. You can either change 
-
-## Camera mode 
-
-you can have several cam and each camera has specific settings, like the background color / image / video stream,
-
-## Glyph, Grid and Tag modes
-
-To add, delete, layers, style, size grid.
-
-A grid create 
-
-
-The tag mode allows Press `T` to enter the tag mode, `f` to cycle the font
-
-## Console mode `alt+enter`
-
-The console mode allows for finer selection, for examples by branch level or color.
-Enter the console mode by pressing the  key combinaison.
 
 # Tools
 
