@@ -54,6 +54,5 @@ The console mode allows for finer selection, for examples by branch level or col
 | alt + enter | Enter the console mode |
 | "help"      | shows the console help |
 | Esc         | Exit                   |
-|             |                        |
-|             |                        |
+
 

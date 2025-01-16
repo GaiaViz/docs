@@ -95,4 +95,10 @@ Hint: The console will display tips on tool usage when you switch to a new tool.
 ---
 
 
-# Trackball, Trackpad & Touchscreen
+
+## Note about trackballs, Trackpads & Touchscreens:
+
+
+Although GaiaViz was developed for a typical 3D workstation set up, all mouse behavior transfer fairly well to trackpads and touchscreens. Users report successfully using GaiaViz with devices such as Windows surface laptops, tactile external monitor, laptop trackpads, etc.
+
+We still recommend using at least a mouse for ergonomic considerations.

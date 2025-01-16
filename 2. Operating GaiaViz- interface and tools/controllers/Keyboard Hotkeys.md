@@ -4,6 +4,12 @@ layout: home
 parent: Keyboard and Mouse
 nav_order: 1
 ---
+Your keyboard controls the app like many 3D spatial software, nearly every key has a tools associated, and
+
+The only exceptions are when you enter the Tag Mode ( hotkey `t` ) or the Console Mode ( hotkey `alt+enter` ). In those modes, you use the keyboard to type text
+To exit those modes and return to normal controls, use the `esc` key.
+
+
 
 ## Keyboard - Game Mode
 

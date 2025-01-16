@@ -1,5 +1,5 @@
 ---
-title: GUI consoles
+title: Screen layout
 layout: home
 parent: Operating GaiaViz
 ---

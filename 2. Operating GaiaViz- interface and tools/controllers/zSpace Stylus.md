@@ -18,4 +18,4 @@ nav_order: 4
         - **Left Button** - changes tool type.
 
 
-[[GUI Consoles]]
+[[Screen layout]]
