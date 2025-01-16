@@ -3,7 +3,7 @@ description: Everything you need to get started using GaiaViz!
 theme: just-the-docs
 
 url: https://gaiaviz.github.io/docs
-baseurl: /docs
+baseurl: "/docs"
 
 
 # Aux links for the upper right navigation

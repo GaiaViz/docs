@@ -18,7 +18,6 @@ Use the tools with the keyboard.
 
 
 Mouse usage:
-Edit modes (gl)
 - scroll with your mouse wheel to select tools
 - left or right click to use them
 
@@ -27,7 +26,7 @@ Keyboard usage :
 - Shift + ? to di
 
 Modes
-- C : camera mode : C
+- C : camera mode
 - Tab : glyph mode
 - G : grid mode
 - T : tag mode
