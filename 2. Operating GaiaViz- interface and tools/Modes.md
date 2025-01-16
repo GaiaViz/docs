@@ -16,7 +16,8 @@ GaiaViz has different modes that you select via the keyboard
 
 The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on by the (2D) mouse. To change the mode, click on the indicator or use the shortcut keys (when keyboard is in 'Game Mode'):
 
-| Hotkey | Fonction                                    |
+
+| Hotkey | Function                                    |
 | ------ | ------------------------------------------- |
 | C      | Camera mode, repeat to select next camera.  |
 | G      | Grid mode, repeat to iterate through grids. |
