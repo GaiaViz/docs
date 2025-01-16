@@ -1,8 +1,8 @@
 ---
-title: 
+title: Create, Delete, Copy, Prune & Graft Glyphs
 layout: home
 parent: Tools
-nav_order:
+nav_order: 1
 ---
 
 ### Create, Delete, Copy, Prune & Graft Glyphs

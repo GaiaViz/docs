@@ -29,7 +29,9 @@ You can freeze a camera to keep an specific point of view.
 > If you get lost in the scene, delete your current camera to get back to the default center position.
 
 
+Here are the main commands of the camera mode
 
+| Hotkey | |
 
 ## Glyph, Grid and Tag modes
 
