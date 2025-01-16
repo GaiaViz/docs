@@ -5,6 +5,9 @@ parent: Modes and tools
 ---
 ### Text Tag Console
 
+Each object in the scene can be tagged.
+
+
 - **T** - Toggles the **Tag Tool** ON/OFF.
     - **Enter** - switches between **Tag Edit** and **Tag Style**:
         - **Tag Edit** mode modifies the text.

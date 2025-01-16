@@ -2,7 +2,7 @@
 title: Animation - Channels and Tracks
 layout: home
 nav_order: 
-parent:
+parent: Tutorials and demos
 ---
 
 In theory, current constants set to support:
