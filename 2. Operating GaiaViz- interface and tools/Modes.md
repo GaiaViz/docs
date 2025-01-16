@@ -6,8 +6,7 @@ parent: Operating GaiaViz
 ---
 # Modes
 
-GaiaViz has different modes that you select via the keyboard 
-- camera : manipulate only cameras to visually explore the scene
+GaiaViz has different modes that you select via the keyboard: camera (C key) explore the scene
 - glyph : edit the glyphs
 - grids, to work on the grids
 - tag mode, to annotate the scene
@@ -92,4 +91,5 @@ The console mode allows for finer selection, for examples by branch level or col
 | alt + enter | Enter the console mode |
 | "help"      | shows the console help |
 | Esc         | Exit                   |
+|             |                        |
 

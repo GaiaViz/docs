@@ -2,7 +2,7 @@
 title: Tags tool
 layout: home
 parent: Tools
-nav_order:
+nav_order: 6
 ---
 Tag Console
 
