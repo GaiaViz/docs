@@ -1,7 +1,7 @@
 ---
 title: Welcome to GaiaViz documentation
 layout: home
-nav_order: 1
+nav_order: "1"
 ---
 
 GaiaViz is an immersive 3D visualization engine that lets you encode and display millions of data attributes onto beautiful 3D structures. This unique 3D visual analytics solutions inspire the mind.
@@ -11,6 +11,9 @@ GaiaViz is an immersive 3D visualization engine that lets you encode and display
 
 This user guide will cover the basic to get you started in the GaiaViz environment, covering how to install and operate GaiaViz as well as  explaining typical datascape creation workflows.
 
+
 GaiaViz also provides further technical documentation over the GitHub Wiki, that is referenced through out those pages.
 
 Discover GaiaViz [[functionnalities]], check out the system requirement and create your first datascape!
+
+If you are a developer or data analytist and need further technical documentation, head over to our GitHub wiki.
