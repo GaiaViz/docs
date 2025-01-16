@@ -33,5 +33,3 @@ However, due to our effort to develop crisp and ultra-low latency experience, we
 - Data wrangling tools: Spyder environment / Anaconda 
 - nVidia drivers
 - live video
-
-
