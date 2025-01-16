@@ -22,8 +22,13 @@ The **3Dconnexion SpaceMouse** (family) are 6DOF devices that operate the camera
         - **[Size]** - Uniform scale (**Up/Down**), non-uniform (**Left/Right**) & (**Forward/Back**).
         - **[Color]** - **Alpha** (**Up/Down**) or **RGB** color (**Twist/Tilt/Roll**).
 
-Hint: can also **L/R-click** on GUI indicator to change modes with (2D) mouse or zSpace Stylus.
 
-**Important**, you may need to [disable the 3D connexion GUI overlay](https://github.com/GaiaViz/GaiaViz/wiki/Space-Mouse) to prevent popping up on top of the app.
+{: .highlight }
+>Hint:
+>
+>can also **L/R-click** on GUI indicator to change modes with (2D) mouse or zSpace Stylus.
+
+{: .important }
+You may need to [disable the 3D connexion GUI overlay](https://github.com/GaiaViz/GaiaViz/wiki/Space-Mouse) to prevent popping up on top of the app.
 
 ---

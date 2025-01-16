@@ -34,7 +34,7 @@ It is possible to **L/R-Click** to select using several of the tools (Combo, Mov
     - **L-Hold** to drag a selection box (add to selection).
     - **R-Hold** to drag a de-selection box (removes objects).
 
-### [Mouse Tools
+### Mouse Tools
 
 
 
