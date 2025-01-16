@@ -43,14 +43,17 @@ Every objects, glyph and grids, as well as each camera background, can have a te
  
 - **Alternate Color (grid lines)**
 
-| Hotkeys | Functions |
-| --- | --- |
-| **Alt+9** |  decrease opacity of the grid lines. |
-| **Alt+0** | increase opacity of grid lines. |
-| **Shift+Alt+9** | prev color ID of grid lines. |
-| **Shift+Alt+0** | next color ID of grid lines. |
+| Hotkeys         | Functions                           |
+| --------------- | ----------------------------------- |
+| **Alt+9**       | decrease opacity of the grid lines. |
+| **Alt+0**       | increase opacity of grid lines.     |
+| **Shift+Alt+9** | prev color ID of grid lines.        |
+| **Shift+Alt+0** | next color ID of grid lines.        |
 
 
 - **Global Color Settings**
-    - **B** - Background color, toggle between black and white
-    - **8** - Transparency mode (subtractive, additive, dark, none)
+
+| Hotkeys | Functions                                             |
+| ------- | ----------------------------------------------------- |
+| B       | Background color, toggle between black and white      |
+| 8       | Transparency mode (subtractive, additive, dark, none) |

@@ -22,7 +22,6 @@ Use topology and geometry parameter to organize the structure of the hyperglyph:
 
 | Hotkeys | Functions                                                                          |
 | ------- | ---------------------------------------------------------------------------------- |
-| J       |                                                                                    |
 | **Y**   | Increases the (Grid) **`segment_x y z`** count (**Shift+Y** - decreases the count) |
 | Z       | (**`segment_z`**) is stacks of grids as 3D layers.                                 |
 |         |                                                                                    |
