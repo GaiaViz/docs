@@ -6,4 +6,4 @@ parent: Operating GaiaViz
 # Keyboard and Mouse Behavior
 GaiaViz is designed to be controlled simultaneously by the mouse and the keyboard. They behave independently.
 
-![[Keyboard-tools.png]]
+![image](/assets/images/Keyboard-tools.png)
