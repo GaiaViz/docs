@@ -5,7 +5,7 @@ parent: Keyboard and Mouse
 nav_order: 2
 ---
 
-## Mouse, Trackball, Trackpad & Touchscreen
+## Mouse
 
 
 Behavior is based on the active **[mouse: (mode) ]** and **[tool: (type) ]**.
@@ -93,3 +93,6 @@ Rotate
 Hint: The console will display tips on tool usage when you switch to a new tool.
 
 ---
+
+
+# Trackball, Trackpad & Touchscreen

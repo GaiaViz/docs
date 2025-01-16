@@ -1,5 +1,5 @@
 ---
-title: Keyboard - Game Mode
+title: Keyboard
 layout: home
 parent: Keyboard and Mouse
 nav_order: 1
