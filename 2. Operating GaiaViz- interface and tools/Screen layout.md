@@ -5,15 +5,20 @@ parent: Operating GaiaViz
 nav_order: "1"
 ---
 
+Upper left : compass
+upper right : FPS (frames per seconds=  performance)
 
-### Keyboard - Game Mode Console
+Side bar :  mode display, tool list,
 
-- Outputs user actions and system messages (status, warn, err...)
-    - **M** - key will switch the number of lines shown (or hide completely).
-    - Keyboard Game Mode actions are described above.
+Bottom :  console feed back
+- displays tools tips when you change tools
+- displays id and tags when you select objects
+- display the filepath when use save a screenshoot / load a file
+- etc....
 
-### (GUI) Command Console
+This is also where you will type in the console if needed.
 
-- **Enter** key - Enters Command Console (from Game Mode).
-- Type '**?**' and press **Enter** for command usage '**help**'.
-- **Esc** key - leave Command Console and return keyboard to **Game Mode**.
+
+
+
+GUI can be minimized or completely hidden with M key.
