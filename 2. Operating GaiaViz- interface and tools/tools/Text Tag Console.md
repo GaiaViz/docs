@@ -1,7 +1,7 @@
 ---
 title: Text tags
 layout: home
-parent: Modes and tools
+parent: Tools
 ---
 ### Text Tag Console
 

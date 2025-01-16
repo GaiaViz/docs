@@ -1,3 +1,12 @@
+---
+title: Texture, Color & Transparency
+layout: home
+parent: Tools
+nav_order:
+---
+Every objects, glyph and grids, as well as each camera background, can have a texture (image or video), a color, and transparency modified.
+
+
 ### Texture, Color & Transparency
 
 - **Texture Settings**
