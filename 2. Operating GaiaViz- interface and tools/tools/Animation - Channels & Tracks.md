@@ -2,7 +2,7 @@
 title: Animation - Channels & Tracks
 layout: home
 parent: Tools
-nav_order: "10"
+nav_order: "9"
 ---
 
 ### Animation - Channels & Tracks

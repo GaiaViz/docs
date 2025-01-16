@@ -2,6 +2,7 @@
 title: Text tags
 layout: home
 parent: Tools
+nav_order:
 ---
 ### Text Tag Console
 

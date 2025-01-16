@@ -1,7 +1,7 @@
 ---
 title: Keyboard
 layout: home
-parent: Keyboard and Mouse
+parent: Tools
 nav_order: 1
 ---
 
