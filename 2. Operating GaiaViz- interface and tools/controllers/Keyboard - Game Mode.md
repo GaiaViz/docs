@@ -16,12 +16,13 @@ It is possible to press multiple keys at once (3-5 typical depending on the keyb
 
 ### Global Settings
 
-- **ESC** - **Fullscreen** Toggle and also exits console modes (return to **Game Mode**).
-- **M** - **Menu** display mode (**1, 3 or 40** text lines, toolbar **size** and **hide** GUI).
-- **B** - Background **Black/White**.
-- **X** - **Lock axes** so that the **current tool** only effects: **X, Y, XY, XYZ**...
-    - Hint: **Click** on the toolbar menu axes **[Coord (X/Y/Z): 0.0 ]** to toggle an axis **ON/OFF**.
-
+| Hotkey | Fonction                                                                                                                                                                                |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Esc    | **Fullscreen** Toggle and also exits console modes (return to **Game Mode**).                                                                                                           |
+| M      | **Menu** display mode (**1, 3 or 40** text lines, toolbar **size** and **hide** GUI).                                                                                                   |
+| B      | Background **Black/White**.                                                                                                                                                             |
+| X      | **Lock axes** so that the **current tool** only effects: **X, Y, XY, XYZ**...<br>    - Hint: **Click** on the toolbar menu axes **[Coord (X/Y/Z): 0.0 ]** to toggle an axis **ON/OFF**. |
+|        |                                                                                                                                                                                         |
 ### Mouse Mode (Cam, Grid, Glyph)
 
 The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on by the (2D) mouse. To change the mode, click on the indicator or use the shortcut keys (when keyboard is in 'Game Mode'):
@@ -64,25 +65,20 @@ The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on
 
 ### Create, Delete, Copy, Prune & Graft Glyphs
 
-
-- **N** - Creates a new node (based on the mode: Camera, Glyph, Grid...)
-    - Use **Shift+N** when creating a Level 2 child node off the Level 1 root node.
-    - Glyphs are type = 5.
-    - In order to add glyphs to grids, go to Grid Mode, make sure the grid on which you want to add the node is **selected ON**, go back to Glyph Mode and then hit **N**. Alternatively, while still in Glyph Mode, you can use the arrow keys to move down branch levels, getting to branch level 0, the primary grid, and then paste the branches and children there.
-    - A glyph with **parent_id=0** will be attached to the main grid.
-- **Del** - Delete node, deletes active node and all its child branches
-- **Ctrl+X** - To cut (prune) and store the glyph tree or branch on the clipboard.
-    - **Shift+Ctrl+X** - To cut (prune) to clipboard, with branch base in world coordinates.
-- **Ctrl+C** - To copy the glyph tree or branch to the clipboard.
-    - **Shift+Ctrl+C** - To copy to clipboard, with branch base in world coordinates.
-- **Ctrl+V** - To paste (or graft) the clipboard to the active glyph (or Grid).
-- **Ctrl+S** - Saves all selected nodes with sub-branches (timestamped).
-    - **Shift+Ctrl+S** - Saves just the selected nodes (without sub-branches).
-    - **Tool_Save Selected** - Saves entire branch(es) of selected nodes.
-
+| Hotkey                 | Fonction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| N                      | Creates a new node (based on the mode: Camera, Glyph, Grid...)<br>    - Use **Shift+N** when creating a Level 2 child node off the Level 1 root node.<br>    - Glyphs are type = 5.<br>    - In order to add glyphs to grids, go to Grid Mode, make sure the grid on which you want to add the node is **selected ON**, go back to Glyph Mode and then hit **N**. Alternatively, while still in Glyph Mode, you can use the arrow keys to move down branch levels, getting to branch level 0, the primary grid, and then paste the branches and children there.<br>    - A glyph with **parent_id=0** will be attached to the main grid. |
+| Del                    | Delete node, deletes active node and all its child branches                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Ctrl+X**             | To cut (prune) and store the glyph tree or branch on the clipboard.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Shift+Ctrl+X**       | To cut (prune) to clipboard, with branch base in world coordinates.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Ctrl+C**             | To copy the glyph tree or branch to the clipboard.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Shift+Ctrl+C**       | To copy to clipboard, with branch base in world coordinates.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Ctrl+V**             | To paste (or graft) the clipboard to the active glyph (or Grid).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Ctrl+S**             | Saves all selected nodes with sub-branches (timestamped).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Shift+Ctrl+S**       | Saves just the selected nodes (without sub-branches).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Tool_Save Selected** | Saves entire branch(es) of selected nodes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+ 
 ### Traverse Forest & Trees
-
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#traverse-forest--trees)
 
 - **Left arrow** - select left sibling (SHIFT+arrow to skip towards first node)
 - **Right arrow** - select right sibling (SHIFT skips towards last node)
@@ -91,7 +87,6 @@ The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on
 
 ### Select, Hide & Freeze
 
-[](https://github.com/GaiaViz/GaiaViz/wiki/User-Commands#select-hide--freeze)
 
 - **Spacebar** - toggles the wireframe that indicates a node is selected **ON/OFF**.
     - **Alt+Spacebar** - toggles current node selection **ON/OFF**.

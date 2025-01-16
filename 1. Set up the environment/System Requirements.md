@@ -20,7 +20,7 @@ parent: Getting started
 
 The minimum requirements for GaiaViz are:
 
-| Item        | Requirements                   | Notes                                                                   |
+| Item        | Requirements                   | Notes                                                                      |
 | ----------- | ------------------------------ | -------------------------------------------------------------------------- |
 | Hardware    | Dedicated GPU                  |                                                                            |
 | OS          | windows app + DLL              | *Non-official macOS using whiskey bottles<br>, a PC game emulator for mac* |
