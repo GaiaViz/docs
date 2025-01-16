@@ -2,7 +2,7 @@
 title: Load & Save
 layout: home
 nav_order: 4
-parent: Managing Datascape Projects
+parent: Operating GaiaViz
 ---
 
 ### Load Dataset or Asset
