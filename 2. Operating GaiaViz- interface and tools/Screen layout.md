@@ -2,7 +2,7 @@
 title: Screen layout
 layout: home
 parent: Operating GaiaViz
-nav_order: "1"
+nav_order: 1
 ---
 ## Overview - GUI Layout & Keyboard
 
