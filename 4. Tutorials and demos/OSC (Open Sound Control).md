@@ -2,7 +2,7 @@
 layout: home
 title: OSC (Open Sound Control)
 parent: Tutorials and demos
-nav_order:
+nav_order: "5"
 ---
 
 ## OSC (Open Sound Control)
