@@ -13,6 +13,7 @@ GaiaViz is quick to try out, just download the zip file, extract it on a windows
 3. If you wich to connect a [Edge AI] or [GaiaRemote], allow the network communication dialog.
 4. Explore the demos by pressing 'L' and choosing
 
+
 Navigate with a mouse, even better, a spacemouse.
 Use the tools with the keyboard.
 

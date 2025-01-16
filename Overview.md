@@ -75,10 +75,6 @@ mouse and keyboard, touchscreens , 3D mouse
 
 ----------------
 
-
-
 - Data wrangling tools: Spyder environment / Anaconda 
-
-
 - nVidia drivers
 - live video
