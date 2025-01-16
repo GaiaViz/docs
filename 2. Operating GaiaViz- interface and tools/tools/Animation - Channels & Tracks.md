@@ -1,3 +1,10 @@
+---
+title: Animation - Channels & Tracks
+layout: home
+parent: Tools
+nav_order: "10"
+---
+
 ### Animation - Channels & Tracks
 
 

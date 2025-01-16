@@ -1,3 +1,10 @@
+---
+title: 
+layout: home
+parent: Tools
+nav_order:
+---
+
 ### Create, Delete, Copy, Prune & Graft Glyphs
 
 | Hotkey                 | Fonction                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

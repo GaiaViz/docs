@@ -1,3 +1,10 @@
+---
+title: Select, Hide & Freeze
+layout: home
+parent: Tools
+nav_order:
+---
+
 ### Select, Hide & Freeze
 
 | Hotkey       | Fonction                                                                                                                                                                                                                                 |

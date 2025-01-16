@@ -1,3 +1,9 @@
+---
+title: Move, Rotate or Scale Objects
+layout: home
+nav_order: "2"
+parent: Tools
+---
 ### Move, Rotate or Scale Objects
 
 
