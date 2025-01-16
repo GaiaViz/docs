@@ -8,7 +8,7 @@ Tag Console
 
 Each object in the scene can be tagged. Those tag can be just text, a URL or a local fil
 
-## Glyph tag edi
+## Glyph tag: edit and style
 
 | **Hotkey**    | Function                                                                           |
 | ------------- | ---------------------------------------------------------------------------------- |
@@ -21,18 +21,12 @@ Each object in the scene can be tagged. Those tag can be just text, a URL or a l
 | **F**         | changes the font type (**Shift+F** for previous).                                  |
 | **Z**         | scales the tag size up (**Shift+Z** scales down).                                  |
 | **B**         | changes the tag box style (outline or node color text).                            |
-|               |                                                                                    |
-
-
 
 ## Camera tag view mode
-In camera mode (C key), you can controls scene wide tag view behavior:
+
+In camera mode (C key), you can edit each camera's tag view behavior. This setting doesn't affect individual tag, but rather the individual camera.
 
 | **Hotkey** | Functions                                                                                                                                                                                                                                                                                                                                                   |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Z**      | scales display size of all tags.                                                                                                                                                                                                                                                                                                                            |
 | **Alt+Z**  | changes all (visible) tags view mode, as follows:<br>- **Hide All** mode '0' (does not change individual tag hide states).<br>- **Fixed Size** mode '1' (akin to original behavior).<br>- **Glyph Scale** mode '2' scale is directly proportional to the node view size.<br>- **Distance Scale** mode '3' scales, but closer is proportionally smaller.<br> |
-
-{: .note}
-- Camera tag view settings are unique to each camera.
-- Camera settings do NOT affect the tag settings.
