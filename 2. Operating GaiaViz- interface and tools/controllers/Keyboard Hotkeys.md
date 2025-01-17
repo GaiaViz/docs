@@ -32,11 +32,14 @@ Here some hotkey that are good to know
 
 The GUI indicator [mouse: (mode) ] determines what type of nodes are operated on by the (2D) mouse. To change the mode, click on the indicator or use the shortcut keys (when keyboard is in 'Game Mode'):
 
-| Hotkey | Fonction                                    |
+
+| Hotkey | Function                                    |
 | ------ | ------------------------------------------- |
 | C      | Camera mode, repeat to select next camera.  |
 | G      | Grid mode, repeat to iterate through grids. |
 | Tab    | Glyph mode, repeat to select next sibling.  |
+
+
 *Note that **Shift+(mode key)** will select previous (of same node type).
 
 **The 3D Mouse (ie: SpaceMouse) and zSpace Stylus have operation modes that are completely independent of the (2D) mouse mode.
