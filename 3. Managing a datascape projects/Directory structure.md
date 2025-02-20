@@ -36,3 +36,6 @@ parent: Managing Datascape Projects
 │ 	│   └── Your project C
 │   └── Prototypes
 ```
+
+
+![]({% link /assets/images/Datascape-ProjectFile.jpg %})
