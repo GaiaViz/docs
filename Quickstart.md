@@ -10,7 +10,7 @@ GaiaViz is quick to try out, just download the zip file, extract it on a windows
 
 1. Download GaiaViz.zip from our site
 2. Extract the content and run the app from its folder.
-3. If you wich to connect a [Edge AI] or [GaiaRemote], allow the network communication dialog.
+3. If you which to connect a [Edge AI] or [GaiaRemote], allow the network communication dialog.
 4. Explore the demos by pressing 'L' and choosing
 
 
@@ -18,15 +18,20 @@ Navigate with a mouse, even better, a spacemouse.
 Use the tools with the keyboard.
 
 
-Mouse usage:
-- scroll with your mouse wheel to select tools
-- left or right click to use them
+## Mouse usage:
 
-Keyboard usage :
+Navigate with the mouse:
+- Fly mode: move and look around by drag the background
+- Orbit mode: Click an object to focus on it, then drag the background to move around an object.
+Use the tools:
+- Scroll with your mouse wheel to select tools
+- Click left or right to apply the tools on the objects
+
+## Keyboard usage :
 - wasd+qe to move 
-- Shift + ? to di
+- All the tools are used by keyboard, use "?" (```Shift + / ```)refer the Tools Page for details 
 
-Modes
+## Modes
 - C : camera mode
 - Tab : glyph mode
 - G : grid mode
