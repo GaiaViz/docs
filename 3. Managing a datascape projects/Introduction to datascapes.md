@@ -19,9 +19,7 @@ parent: Managing Datascape Projects
 4. features
 5. import a datascape
 
-A datascape is as much the visual environment where you interact with your data as it is the data and media files composing it.
-A single node file is already a datascape.
-
+A datascape is as much the visual environment where you interact with your data as it is the data and media files composing it. A single node file is already a datascape.
 # Datascape components and complexity
 
 - basic 
@@ -37,15 +35,12 @@ What is a datascape :
 
 Minimum viable datascape: a node file is all it takes to display 
 
-# Designing a datascape : workflow per user type
-1- ideas, mock-up and asset collection
-2- assets wrangling and iteration
-3- clean-up, bundle and share
+# Supported file formats
 
-## Data analysts
-
-## Graphic and motion designer
-## Programmers
+GaiaViz will load the following formats:
+- Image files: `tiff`,`jpg`,`png`
+- 3D models files: 
+- Video streams: `YUV`, `RGB`
 
 # Basic datascapes editing : "WYSIWYG"
 
@@ -73,24 +68,20 @@ To import a datascape, hit the "L" key, navigate the file dialog to the
 - Create a datascape programmatically
 
 
-
-
-
 # Advanced datascapes: Python
-- tracks and channels
-
+Advanced datascapes may contain animation (using the channel and tracks methods), pipe live data from external sensors and 
 ## Programmatically with data tools
+# Designing a datascape : workflow per user type
+1- ideas, mock-up and asset collection
+2- assets wrangling and iteration
+3- clean-up, bundle and share
 
+## Data analysts
 
+## Graphic and motion designer
+## Programmers
 
 # Manage datascapes
-
-# Supported file formats
-
-GaiaViz will load the following formats:
-- Image files: `tiff`,`jpg`,`png`
-- 3D models files: 
-- Video streams: `YUV`, `RGB`
 
 # Global settings
 GaiaViz stores global settings in the global folder
