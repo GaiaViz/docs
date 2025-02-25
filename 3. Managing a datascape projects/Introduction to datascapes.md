@@ -14,28 +14,29 @@ parent: Managing Datascape Projects
 {:toc}
 
 1. what is a datascape
-2. designing a datascape
-3. create a datascape
-4. features
-5. import a datascape
+	1. components
+	2. features
+2. import/open a datascape
+3. creating datascapes (manually from interface, from files, or programmatically)
+4. designing a datascape (workflow)
 
-A datascape is as much the visual environment where you interact with your data as it is the data and media files composing it. A single node file is already a datascape.
-# Datascape components and complexity
 
-- basic 
-- advanced
+# What is a datascape: components and complexity
+
+A datascape is the visual environment where you interact with your data as it is the data and media files composing it. 
+
+In its most basic form, a datascape only requires a single node file. But it also will use a tag file to manage the tags in the scene, images, 3D objects.
 
 What is a datascape :
 - 3D objects and models
 	- primitives geometries
 - data in csv format
 - images textures
-
 - tags files
 
 Minimum viable datascape: a node file is all it takes to display 
 
-# Supported file formats
+## Supported file formats
 
 GaiaViz will load the following formats:
 - Image files: `tiff`,`jpg`,`png`
@@ -77,11 +78,8 @@ Advanced datascapes may contain animation (using the channel and tracks methods)
 3- clean-up, bundle and share
 
 ## Data analysts
+Data analysts' typical workflow will involve a lot of data mani
 
 ## Graphic and motion designer
-## Programmers
 
 # Manage datascapes
-
-# Global settings
-GaiaViz stores global settings in the global folder
