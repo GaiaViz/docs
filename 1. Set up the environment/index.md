@@ -19,7 +19,7 @@ nav_order: 4
 *GaiaViz app maintains backward compatibility and can handle files created with/for a previous version. On first open, it adapt the datascape's files to the new format. This operation might render the files unopenable to previous version, so please do back-up your data before upgrading.
 
 
-## Uninstall
+Uninstall
 If you need to uninstall GaiaViz, simply delete the folder.
 
 
